@@ -2,10 +2,10 @@
   "title": "IG Growth Club - Content Prompts",
   "description": "Welcome to your master list of IG content ideas (for Reels and Carousels). Each prompt is organized by Content Pillar with real examples to inspire you and help you create content with strategy and purpose.",
   "source_url": "https://workable-fedora-9e0.notion.site/31372a077ac78186b6fcfb89ffa02db8?v=31372a077ac7810398bb000ca2522c4b",
-  "retrieved_at": "2026-10-15T15:09:31.785632+00:00",
-  "current_query_count": 335,
-  "saved_view_reference_count": 391,
-  "exported_count": 335,
+  "retrieved_at": "2026-10-19T14:39:18.278057+00:00",
+  "current_query_count": 343,
+  "saved_view_reference_count": 399,
+  "exported_count": 343,
   "entries_with_body": 5,
   "missing_content_blocks": [],
   "request_errors": {},
@@ -69,10 +69,23 @@
   ],
   "scope": "Public database properties and accessible descendant blocks. External Instagram content and binary attachments are not downloaded. Raw endpoint responses preserve rich text and metadata.",
   "files": {
-    "README.md": "e324810f0e29c37cce89fddf5e29cba2fe73154c08ae7cdc04de5d5d90630032",
-    "prompts.csv": "473d4fd6c17938209435331df6e6741a0b0f2aa6e3811890eca1e0c3da8bbeea",
-    "prompts.sqlite3": "b7ab1ed46d31bab1fd0c533510d187e999cedc60018135f017b347907d443c0b",
-    "prompts.json": "f67d19a07d61dd143b208d0f7f002b6fd18b14df7a0f5b619d9a13c0eb24c95a"
+    "prompts.csv": "65fec075e295dc08058c94af32cea9b139272ab14e736bb8dde68a38d798a1d6",
+    "prompts.sqlite3": "2d5fca665e0ed68cb738dc721d5a42efa9ccc805f41c2d642ce9985c292207ff",
+    "prompts.json": "98531d05e400bd8549bf4231623dce0506f2329dec2f8db9fcd4ed19cbde5f06",
+    "README.md": "e324810f0e29c37cce89fddf5e29cba2fe73154c08ae7cdc04de5d5d90630032"
   },
-  "historical_reference_note": "56 saved-view IDs absent from the current collection query returned no readable record for the requested ID; their content/status is unknown."
+  "changes": {
+    "added": [
+      "3fd72a07-7ac7-8011-8820-c1f0fb59dab8",
+      "3fd72a07-7ac7-8020-909d-e91ae7557a5b",
+      "3fd72a07-7ac7-8027-979b-e4a71464dbb8",
+      "3fd72a07-7ac7-8048-9eb5-e0ea47a1f2c2",
+      "3fd72a07-7ac7-804c-90a9-f460a9e1def5",
+      "3fd72a07-7ac7-808d-b561-e155cf905ede",
+      "3fd72a07-7ac7-808f-923d-dff943846195",
+      "3fd72a07-7ac7-80c1-83eb-cee7fff0106a"
+    ],
+    "removed": [],
+    "updated": []
+  }
 }

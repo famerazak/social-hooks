@@ -6,6 +6,14 @@
         "type": "results",
         "blockIds": [
           "3da72a07-7ac7-806a-b6ed-c89562341003",
+          "3fd72a07-7ac7-80c1-83eb-cee7fff0106a",
+          "3fd72a07-7ac7-8048-9eb5-e0ea47a1f2c2",
+          "3fd72a07-7ac7-804c-90a9-f460a9e1def5",
+          "3fd72a07-7ac7-8020-909d-e91ae7557a5b",
+          "3fd72a07-7ac7-8011-8820-c1f0fb59dab8",
+          "3fd72a07-7ac7-8027-979b-e4a71464dbb8",
+          "3fd72a07-7ac7-808d-b561-e155cf905ede",
+          "3fd72a07-7ac7-808f-923d-dff943846195",
           "3f672a07-7ac7-8050-a61c-df2156dadd39",
           "3f672a07-7ac7-8074-a13e-eccdeb31d3e6",
           "3f572a07-7ac7-80b8-8636-c57268427f6b",
@@ -344,7 +352,7 @@
         "hasMore": false
       }
     },
-    "sizeHint": 335,
+    "sizeHint": 343,
     "rowCountStatus": "under"
   },
   "collectionIds": [
@@ -522,6 +530,10 @@
     "31372a07-7ac7-8153-9c5d-c17eee17338d",
     "31372a07-7ac7-81f9-9674-f878ecbc3ff4",
     "31372a07-7ac7-81ff-91fd-c9cbd1e7e1fd",
+    "3fd72a07-7ac7-804c-90a9-f460a9e1def5",
+    "3fd72a07-7ac7-80c1-83eb-cee7fff0106a",
+    "3fd72a07-7ac7-8011-8820-c1f0fb59dab8",
+    "3fd72a07-7ac7-8027-979b-e4a71464dbb8",
     "3f672a07-7ac7-8050-a61c-df2156dadd39",
     "3f672a07-7ac7-8074-a13e-eccdeb31d3e6",
     "3f572a07-7ac7-80b8-8636-c57268427f6b",
@@ -617,6 +629,8 @@
     "37972a07-7ac7-807d-a515-fced0d772c25",
     "37872a07-7ac7-80fb-90fb-dc5107c656d1",
     "37872a07-7ac7-8066-9ddd-e1aa56143488",
+    "3fd72a07-7ac7-8020-909d-e91ae7557a5b",
+    "3fd72a07-7ac7-808f-923d-dff943846195",
     "3ef72a07-7ac7-800d-91f7-d39bd8730c2e",
     "3e872a07-7ac7-8094-ab05-e6111d01dac7",
     "3e172a07-7ac7-806a-b502-d298d4a7ffd9",
@@ -656,6 +670,8 @@
     "37f72a07-7ac7-8044-b884-effafc371eca",
     "37972a07-7ac7-806e-b2d1-ca4e9a654bb6",
     "37972a07-7ac7-80a2-be38-ca4bd8534c76",
+    "3fd72a07-7ac7-8048-9eb5-e0ea47a1f2c2",
+    "3fd72a07-7ac7-808d-b561-e155cf905ede",
     "3ef72a07-7ac7-8023-ad90-e804b3599d72",
     "3ef72a07-7ac7-80d7-b4f5-c75d3af35833",
     "3ef72a07-7ac7-8000-975e-f4d8b794551f",
@@ -823,6 +839,1496 @@
                           "o": [
                             "XxlBL35Nx0Hc",
                             1
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3fd72a07-7ac7-80c1-83eb-cee7fff0106a": {
+        "spaceId": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+        "value": {
+          "value": {
+            "id": "3fd72a07-7ac7-80c1-83eb-cee7fff0106a",
+            "version": 3935,
+            "type": "page",
+            "properties": {
+              "BcI_": [
+                [
+                  "Can we bring back the unstructured childhood? riding bikes until the street lights come on, being bored and figuring out what to do about it…\n\nCan we bring back doing nothing? lazy weekends where we actually rest and recover, naps without guilt, zero plans…\n\nCan we bring back dating your spouse?  flowers for no reason, no phones at the table, dressing up just because, slow dancing in the kitchen…"
+                ]
+              ],
+              "LR:i": [
+                [
+                  "https://www.instagram.com/reels/DdaP0S7sOyz/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reels/DdaP0S7sOyz/"
+                    ]
+                  ]
+                ]
+              ],
+              "UPBc": [
+                [
+                  "‣",
+                  [
+                    [
+                      "d",
+                      {
+                        "type": "date",
+                        "start_date": "2026-10-19"
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              "`RXF": [
+                [
+                  "Reel"
+                ]
+              ],
+              "c~M:": [
+                [
+                  "Feel"
+                ]
+              ],
+              "hJCm": [
+                [
+                  "Universal"
+                ]
+              ],
+              "jIbF": [
+                [
+                  "This is identity content.  You are sharing your brand values in an effort to attract an audience that shares the same values.  Then when your people see it, they will instantly relate because they identify with what you’re sharing.  This kind of content works well for niches like: lifestyle creators, relationship coaches, hosting and home decor creators, party planners, travel planners, slow living/anti-hustle accounts, community-building niches, etc.  "
+                ]
+              ],
+              "title": [
+                [
+                  "Can we bring back…?"
+                ]
+              ]
+            },
+            "format": {
+              "social_media_image_preview_url": "attachment:0dff150d-fc7c-48c1-831c-13a54d56060c:SocialMediaPreviewImage.png"
+            },
+            "created_time": 1792349398872,
+            "last_edited_time": 1792350308742,
+            "parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "parent_table": "collection",
+            "alive": true,
+            "file_ids": [
+              "0dff150d-fc7c-48c1-831c-13a54d56060c"
+            ],
+            "created_by_table": "notion_user",
+            "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+            "crdt_format_version": 1,
+            "nav_parent_table": "collection",
+            "nav_parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "crdt_data": {
+              "title": {
+                "r": "Wq9lpw-f-uLTHr-Ab-lwpw,\"start\",\"end\"",
+                "n": {
+                  "Wq9lpw-f-uLTHr-Ab-lwpw,\"start\",\"end\"": {
+                    "s": {
+                      "x": "Wq9lpw-f-uLTHr-Ab-lwpw",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 16,
+                          "c": "Can we bring bac"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            19
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            16
+                          ],
+                          "l": 1,
+                          "c": "k"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            23
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            19
+                          ],
+                          "l": 2,
+                          "c": "…?"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            20
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            19
+                          ],
+                          "l": -3
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            17
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            16
+                          ],
+                          "l": -2
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3fd72a07-7ac7-8048-9eb5-e0ea47a1f2c2": {
+        "spaceId": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+        "value": {
+          "value": {
+            "id": "3fd72a07-7ac7-8048-9eb5-e0ea47a1f2c2",
+            "version": 1364,
+            "type": "page",
+            "properties": {
+              "LR:i": [
+                [
+                  "https://www.instagram.com/p/DeFjOgckd9L/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/p/DeFjOgckd9L/"
+                    ]
+                  ]
+                ]
+              ],
+              "UPBc": [
+                [
+                  "‣",
+                  [
+                    [
+                      "d",
+                      {
+                        "type": "date",
+                        "start_date": "2026-10-19"
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              "`RXF": [
+                [
+                  "Carousel"
+                ]
+              ],
+              "c~M:": [
+                [
+                  "Learn"
+                ]
+              ],
+              "hJCm": [
+                [
+                  "Service-Providers"
+                ]
+              ],
+              "jIbF": [
+                [
+                  "This one’s for the stylists!  Here you are giving your audience styling inspo but also teaching how to use color.  Keep in mind that although color is something that comes natural to you, your target audience likely feels lost and overwhelmed with color, so this is a great way to provide value. This would clearly make an excellent carousel, but it would also make a great reel.  "
+                ]
+              ],
+              "title": [
+                [
+                  "Color combos that look expensive"
+                ]
+              ]
+            },
+            "format": {
+              "social_media_image_preview_url": "attachment:69a44b9b-8aac-4058-8235-e8cb1309f447:SocialMediaPreviewImage.png"
+            },
+            "created_time": 1792349050894,
+            "last_edited_time": 1792349308215,
+            "parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "parent_table": "collection",
+            "alive": true,
+            "file_ids": [
+              "69a44b9b-8aac-4058-8235-e8cb1309f447"
+            ],
+            "created_by_table": "notion_user",
+            "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+            "crdt_format_version": 1,
+            "nav_parent_table": "collection",
+            "nav_parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "crdt_data": {
+              "title": {
+                "r": "hVmbzkkbqAmc1XlrpOpj9A,\"start\",\"end\"",
+                "n": {
+                  "hVmbzkkbqAmc1XlrpOpj9A,\"start\",\"end\"": {
+                    "s": {
+                      "x": "hVmbzkkbqAmc1XlrpOpj9A",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 32,
+                          "c": "Color combos that look expensive"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3fd72a07-7ac7-804c-90a9-f460a9e1def5": {
+        "spaceId": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+        "value": {
+          "value": {
+            "id": "3fd72a07-7ac7-804c-90a9-f460a9e1def5",
+            "version": 1030,
+            "type": "page",
+            "properties": {
+              "LR:i": [
+                [
+                  "https://www.instagram.com/reels/DeUgLulx9uH/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reels/DeUgLulx9uH/"
+                    ]
+                  ]
+                ]
+              ],
+              "UPBc": [
+                [
+                  "‣",
+                  [
+                    [
+                      "d",
+                      {
+                        "type": "date",
+                        "start_date": "2026-10-19"
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              "`RXF": [
+                [
+                  "Reel"
+                ]
+              ],
+              "c~M:": [
+                [
+                  "Learn"
+                ]
+              ],
+              "hJCm": [
+                [
+                  "Universal"
+                ]
+              ],
+              "jIbF": [
+                [
+                  "This is a classic Instagram “hook” that sets you up to share something valuable with your audience like a hack, a trick, a recipe, or a shortcut.  Notice her CTA at the end of her reel offering you a list of healthy recipes - those comment keywords and the # of saves this generated are likely the reasons it went so viral.  "
+                ]
+              ],
+              "title": [
+                [
+                  "How old were you when you found out that if you…"
+                ]
+              ]
+            },
+            "format": {
+              "social_media_image_preview_url": "attachment:f4b72b8b-22b4-473c-b47c-9a095fda50c1:SocialMediaPreviewImage.png"
+            },
+            "created_time": 1792350329666,
+            "last_edited_time": 1792350593752,
+            "parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "parent_table": "collection",
+            "alive": true,
+            "file_ids": [
+              "f4b72b8b-22b4-473c-b47c-9a095fda50c1"
+            ],
+            "created_by_table": "notion_user",
+            "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+            "crdt_format_version": 1,
+            "nav_parent_table": "collection",
+            "nav_parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "crdt_data": {
+              "title": {
+                "r": "JoZn6RKA66K-OgBv3SzJHw,\"start\",\"end\"",
+                "n": {
+                  "JoZn6RKA66K-OgBv3SzJHw,\"start\",\"end\"": {
+                    "s": {
+                      "x": "JoZn6RKA66K-OgBv3SzJHw",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 8,
+                          "c": "How old "
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            14
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            8
+                          ],
+                          "l": 19,
+                          "c": "were you when you f"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            35
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            32
+                          ],
+                          "l": 2,
+                          "c": "ou"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            43
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            36
+                          ],
+                          "l": 18,
+                          "c": "nd out that if you"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            64
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            60
+                          ],
+                          "l": 1,
+                          "c": "…"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            61
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            60
+                          ],
+                          "l": -3
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            37
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            36
+                          ],
+                          "l": -6
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            33
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            32
+                          ],
+                          "l": -2
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            9
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            8
+                          ],
+                          "l": -5
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3fd72a07-7ac7-8020-909d-e91ae7557a5b": {
+        "spaceId": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+        "value": {
+          "value": {
+            "id": "3fd72a07-7ac7-8020-909d-e91ae7557a5b",
+            "version": 990,
+            "type": "page",
+            "properties": {
+              "BcI_": [
+                [
+                  "Examples: \n\n  • "
+                ],
+                [
+                  "https://www.instagram.com/reels/DeD9aJus_zl/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reels/DeD9aJus_zl/"
+                    ]
+                  ]
+                ],
+                [
+                  " \n  • "
+                ],
+                [
+                  "https://www.instagram.com/reel/Dbn5EgCxWOB/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reel/Dbn5EgCxWOB/"
+                    ]
+                  ]
+                ],
+                [
+                  "\n  • "
+                ],
+                [
+                  "https://www.instagram.com/reel/DeBRHrmNoU6/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reel/DeBRHrmNoU6/"
+                    ]
+                  ]
+                ],
+                [
+                  "\n  • "
+                ],
+                [
+                  "https://www.instagram.com/reel/DeZ3Rv8shi1/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reel/DeZ3Rv8shi1/"
+                    ]
+                  ]
+                ]
+              ],
+              "LR:i": [
+                [
+                  "https://www.instagram.com/reels/DeZhwmNMSx8/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reels/DeZhwmNMSx8/"
+                    ]
+                  ]
+                ]
+              ],
+              "UPBc": [
+                [
+                  "‣",
+                  [
+                    [
+                      "d",
+                      {
+                        "type": "date",
+                        "start_date": "2026-10-19"
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              "`RXF": [
+                [
+                  "Reel"
+                ]
+              ],
+              "c~M:": [
+                [
+                  "Feel"
+                ]
+              ],
+              "hJCm": [
+                [
+                  "Creatives,Service-Providers"
+                ]
+              ],
+              "jIbF": [
+                [
+                  "This is a little trend where you are sharing images of your work as overlays on top of B-roll. Start with footage of you, then overlay images across the screen of your work.  Best for artists, creatives, stylists, photographers, designers, landscapers, and any other niche where you produce a physical result. \n\nUse this trending audio: "
+                ],
+                [
+                  "https://www.instagram.com/reels/audio/27616899881308110/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reels/audio/27616899881308110/"
+                    ]
+                  ]
+                ]
+              ],
+              "title": [
+                [
+                  "“Can I see examples of your work?”"
+                ]
+              ]
+            },
+            "format": {
+              "social_media_image_preview_url": "attachment:39df1bc1-35db-4d45-b7e4-6f93d35e3726:SocialMediaPreviewImage.png"
+            },
+            "created_time": 1792348483154,
+            "last_edited_time": 1792349029781,
+            "parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "parent_table": "collection",
+            "alive": true,
+            "file_ids": [
+              "39df1bc1-35db-4d45-b7e4-6f93d35e3726"
+            ],
+            "created_by_table": "notion_user",
+            "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+            "crdt_format_version": 1,
+            "nav_parent_table": "collection",
+            "nav_parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "crdt_data": {
+              "title": {
+                "r": "ATlNIePNBrD7x25YLgpD7A,\"start\",\"end\"",
+                "n": {
+                  "ATlNIePNBrD7x25YLgpD7A,\"start\",\"end\"": {
+                    "s": {
+                      "x": "ATlNIePNBrD7x25YLgpD7A",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            36
+                          ],
+                          "o": "start",
+                          "l": 1,
+                          "c": "“"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            35
+                          ],
+                          "o": "start",
+                          "l": -1
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 32,
+                          "c": "Can I see examples of your work?"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            34
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            32
+                          ],
+                          "l": 1,
+                          "c": "”"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            33
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            32
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3fd72a07-7ac7-8011-8820-c1f0fb59dab8": {
+        "spaceId": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+        "value": {
+          "value": {
+            "id": "3fd72a07-7ac7-8011-8820-c1f0fb59dab8",
+            "version": 2430,
+            "type": "page",
+            "properties": {
+              "BcI_": [
+                [
+                  "4 things you don’t need to spend money on to make your Disneyworld trip magical and unforgettable \n\n7 things you don’t need to spend money on to make your home feel organized and calm \n\n5 ways I make my home feel more elegant without spending money on decor"
+                ]
+              ],
+              "LR:i": [
+                [
+                  "https://www.instagram.com/p/DcNj4afIkp3/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/p/DcNj4afIkp3/"
+                    ]
+                  ]
+                ]
+              ],
+              "UPBc": [
+                [
+                  "‣",
+                  [
+                    [
+                      "d",
+                      {
+                        "type": "date",
+                        "start_date": "2026-10-19"
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              "`RXF": [
+                [
+                  "Reel"
+                ]
+              ],
+              "c~M:": [
+                [
+                  "Learn"
+                ]
+              ],
+              "hJCm": [
+                [
+                  "Universal"
+                ]
+              ],
+              "jIbF": [
+                [
+                  "This format works best for niches where people assume that to get better results they need to buy new things in, so niches like: home organization, skincare, fitness, parenting, productivity, styling, gardening, etc.  It always helps when you can show visual proof of what your are sharing.  \n\nThis would also make a great carousel.  In fact if I were making this reel, I would automatically make it a carousel as well and schedule it out in another week or two. "
+                ]
+              ],
+              "title": [
+                [
+                  "# things you don’t need to spend money on to make your ___ 1% better"
+                ]
+              ]
+            },
+            "format": {
+              "social_media_image_preview_url": "attachment:796d996d-1186-40c9-9c70-292861f10f01:SocialMediaPreviewImage.png"
+            },
+            "created_time": 1792347544180,
+            "last_edited_time": 1792348450265,
+            "parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "parent_table": "collection",
+            "alive": true,
+            "file_ids": [
+              "bae472ff-6266-4682-8972-34b343ed6c5a",
+              "796d996d-1186-40c9-9c70-292861f10f01"
+            ],
+            "created_by_table": "notion_user",
+            "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+            "crdt_format_version": 1,
+            "nav_parent_table": "collection",
+            "nav_parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "crdt_data": {
+              "title": {
+                "r": "JQc1gQ3iXrX7AKLQd3ufIA,\"start\",\"end\"",
+                "n": {
+                  "JQc1gQ3iXrX7AKLQd3ufIA,\"start\",\"end\"": {
+                    "s": {
+                      "x": "JQc1gQ3iXrX7AKLQd3ufIA",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 16,
+                          "c": "# things you don"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            18
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            16
+                          ],
+                          "l": 52,
+                          "c": "’t need to spend money on to make your ___ 1% better"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            17
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            16
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3fd72a07-7ac7-8027-979b-e4a71464dbb8": {
+        "spaceId": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+        "value": {
+          "value": {
+            "id": "3fd72a07-7ac7-8027-979b-e4a71464dbb8",
+            "version": 1674,
+            "type": "page",
+            "properties": {
+              "BcI_": [
+                [
+                  "Not to be dramatic, but I hope you’re giving yourself credit for how much you’ve healed. Because if the woman who could barely get out of bed last year could sit down with the woman who shows up for herself every day now, I think she’d be in awe.\n\nNot to be dramatic, but I hope you’re giving yourself credit for choosing yourself. Because if the woman who stayed in that relationship that drained her could sit down with the woman who knows her worth now, I think she’d be extremely proud."
+                ]
+              ],
+              "LR:i": [
+                [
+                  "https://www.instagram.com/reels/Deinw83sOpn/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reels/Deinw83sOpn/"
+                    ]
+                  ]
+                ]
+              ],
+              "UPBc": [
+                [
+                  "‣",
+                  [
+                    [
+                      "d",
+                      {
+                        "type": "date",
+                        "start_date": "2026-10-19"
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              "`RXF": [
+                [
+                  "Reel"
+                ]
+              ],
+              "c~M:": [
+                [
+                  "Feel"
+                ]
+              ],
+              "hJCm": [
+                [
+                  "Universal"
+                ]
+              ],
+              "jIbF": [
+                [
+                  "Here you are giving your audience permission to take a breath and realize how far they’ve come.  It works best in niches where you support change, development, growth or transformation. The specificity (”the women you were last October”) allows your viewers to picture themselves.  Pair it with simple B-roll footage and audio that fits the more sentimental vibe.  "
+                ]
+              ],
+              "title": [
+                [
+                  "Not to be dramatic, but I hope you’re…"
+                ]
+              ]
+            },
+            "format": {
+              "social_media_image_preview_url": "attachment:16b57d54-e73f-4221-9c9e-45050499b7a2:SocialMediaPreviewImage.png"
+            },
+            "created_time": 1792346864105,
+            "last_edited_time": 1792347528389,
+            "parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "parent_table": "collection",
+            "alive": true,
+            "file_ids": [
+              "16b57d54-e73f-4221-9c9e-45050499b7a2"
+            ],
+            "created_by_table": "notion_user",
+            "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+            "crdt_format_version": 1,
+            "nav_parent_table": "collection",
+            "nav_parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "crdt_data": {
+              "title": {
+                "r": "xGT5eNDv9AqautDGq3OAeQ,\"start\",\"end\"",
+                "n": {
+                  "xGT5eNDv9AqautDGq3OAeQ,\"start\",\"end\"": {
+                    "s": {
+                      "x": "xGT5eNDv9AqautDGq3OAeQ",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 34,
+                          "c": "Not to be dramatic, but I hope you"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            36
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            34
+                          ],
+                          "l": 3,
+                          "c": "’re"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            45
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            38
+                          ],
+                          "l": 1,
+                          "c": "…"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            42
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            38
+                          ],
+                          "l": -3
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            39
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            38
+                          ],
+                          "l": -3
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            35
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            34
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3fd72a07-7ac7-808d-b561-e155cf905ede": {
+        "spaceId": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+        "value": {
+          "value": {
+            "id": "3fd72a07-7ac7-808d-b561-e155cf905ede",
+            "version": 2792,
+            "type": "page",
+            "properties": {
+              "BcI_": [
+                [
+                  "If you’re rebuilding your energy and vitality in your 50’s ,start here\n\nIf you’re finding yourself again postpartum, start here\n\nIf you’re redefining your style in your 40’s, start here"
+                ]
+              ],
+              "LR:i": [
+                [
+                  "https://www.instagram.com/p/DeNYkQin5VX/?img_index=5",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/p/DeNYkQin5VX/?img_index=5"
+                    ]
+                  ]
+                ]
+              ],
+              "UPBc": [
+                [
+                  "‣",
+                  [
+                    [
+                      "d",
+                      {
+                        "type": "date",
+                        "start_date": "2026-10-19"
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              "`RXF": [
+                [
+                  "Carousel"
+                ]
+              ],
+              "c~M:": [
+                [
+                  "Learn"
+                ]
+              ],
+              "hJCm": [
+                [
+                  "Service-Providers"
+                ]
+              ],
+              "jIbF": [
+                [
+                  "This one is ideal for coaches and service providers who help clients redesign, reinvent, heal themselves, or parts of their lives, at specific stages.  We’re talking life coaches, fitness and nutrition coaches, midlife reinvention coaches, divorce support, etc.  You’re sharing a few first, easy-to-take steps in order to call in your target audience with something useful, implementable.  \n\nNotice how the creator uses the same image for every slide in their carousel = low lift carousel.  I would always include an image with you in it though, in order to build brand recognition. Also notice how she uses two different fonts, one bold headline font and a supporting paragraph font for the explanation. "
+                ]
+              ],
+              "title": [
+                [
+                  "If you’re redesigning your life in your ___’s start here"
+                ]
+              ]
+            },
+            "format": {
+              "social_media_image_preview_url": "attachment:4e836f3f-c103-4bc7-9e65-347b22a0755c:SocialMediaPreviewImage.png"
+            },
+            "created_time": 1792346286580,
+            "last_edited_time": 1792346832072,
+            "parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "parent_table": "collection",
+            "alive": true,
+            "file_ids": [
+              "4e836f3f-c103-4bc7-9e65-347b22a0755c"
+            ],
+            "created_by_table": "notion_user",
+            "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+            "crdt_format_version": 1,
+            "nav_parent_table": "collection",
+            "nav_parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "crdt_data": {
+              "title": {
+                "r": "04HaG3c60D5iXUHLefNGOA,\"start\",\"end\"",
+                "n": {
+                  "04HaG3c60D5iXUHLefNGOA,\"start\",\"end\"": {
+                    "s": {
+                      "x": "04HaG3c60D5iXUHLefNGOA",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 6,
+                          "c": "If you"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            8
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            6
+                          ],
+                          "l": 12,
+                          "c": "’re redesign"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            26
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            19
+                          ],
+                          "l": 17,
+                          "c": "ing your life in "
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            44
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            42
+                          ],
+                          "l": 8,
+                          "c": "your ___"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            53
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            51
+                          ],
+                          "l": 2,
+                          "c": "’s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            56
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            54
+                          ],
+                          "l": 11,
+                          "c": " start here"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            55
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            54
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            52
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            51
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            43
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            42
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            20
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            19
+                          ],
+                          "l": -6
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            7
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            6
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3fd72a07-7ac7-808f-923d-dff943846195": {
+        "spaceId": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+        "value": {
+          "value": {
+            "id": "3fd72a07-7ac7-808f-923d-dff943846195",
+            "version": 2002,
+            "type": "page",
+            "properties": {
+              "BcI_": [
+                [
+                  "What 15 years of weight lifting and 8 years coaching clients has taught me about strength in midlife: \n\nWhat 9 years of healing my own relationship with food + 4 years studying nutrition has taught me: \n\nWhat 20 years of marriage and 8 years of helping other couples with their marriages has taught me:"
+                ]
+              ],
+              "LR:i": [
+                [
+                  "https://www.instagram.com/p/DeFWLKPjELA/?img_index=1",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/p/DeFWLKPjELA/?img_index=1"
+                    ]
+                  ]
+                ]
+              ],
+              "UPBc": [
+                [
+                  "‣",
+                  [
+                    [
+                      "d",
+                      {
+                        "type": "date",
+                        "start_date": "2026-10-19"
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              "`RXF": [
+                [
+                  "Carousel"
+                ]
+              ],
+              "c~M:": [
+                [
+                  "Shift"
+                ]
+              ],
+              "hJCm": [
+                [
+                  "Creatives,Universal"
+                ]
+              ],
+              "jIbF": [
+                [
+                  "This one is best for those that are experts, professionals, or have been in their role for an extended period of time.  You are sharing your lived experience in order to position yourself as an authority in your niche.  Notice how the the creator uses simple selfie-style photos paired with one message per slide in clear, easy-to-read text."
+                ]
+              ],
+              "title": [
+                [
+                  "What # years in ___ [industry] has taught me:"
+                ]
+              ]
+            },
+            "format": {
+              "social_media_image_preview_url": "attachment:36de6f97-4218-4fdb-85b6-5f0d40ee46bb:SocialMediaPreviewImage.png"
+            },
+            "created_time": 1792345919347,
+            "last_edited_time": 1792346271061,
+            "parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "parent_table": "collection",
+            "alive": true,
+            "file_ids": [
+              "36de6f97-4218-4fdb-85b6-5f0d40ee46bb"
+            ],
+            "created_by_table": "notion_user",
+            "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+            "crdt_format_version": 1,
+            "nav_parent_table": "collection",
+            "nav_parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "crdt_data": {
+              "title": {
+                "r": "exrkAZAWKk1nrglvF4fSPQ,\"start\",\"end\"",
+                "n": {
+                  "exrkAZAWKk1nrglvF4fSPQ,\"start\",\"end\"": {
+                    "s": {
+                      "x": "exrkAZAWKk1nrglvF4fSPQ",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 8,
+                          "c": "What # y"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            12
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            8
+                          ],
+                          "l": 5,
+                          "c": "ears "
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            19
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            16
+                          ],
+                          "l": 12,
+                          "c": "in ___ [indu"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            35
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            30
+                          ],
+                          "l": 20,
+                          "c": "stry] has taught me:"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            31
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            30
+                          ],
+                          "l": -4
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            17
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            16
+                          ],
+                          "l": -2
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            10
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            8
+                          ],
+                          "l": -2
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LoqiO7kuRSM3",
+                            9
+                          ],
+                          "o": [
+                            "LoqiO7kuRSM3",
+                            8
                           ],
                           "l": -1
                         },
@@ -60188,7 +61694,7 @@
         "value": {
           "value": {
             "id": "31372a07-7ac7-8186-b6fc-fb89ffa02db8",
-            "version": 294,
+            "version": 303,
             "type": "collection_view_page",
             "view_ids": [
               "31372a07-7ac7-8103-98bb-000ca2522c4b"
@@ -60226,7 +61732,7 @@
               }
             ],
             "created_time": 1772130839482,
-            "last_edited_time": 1791727970292,
+            "last_edited_time": 1792350625341,
             "parent_id": "29e72a07-7ac7-8030-8de1-e0c67b827815",
             "parent_table": "block",
             "alive": true,

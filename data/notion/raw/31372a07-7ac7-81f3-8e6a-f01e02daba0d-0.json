@@ -147,7 +147,7 @@
         "value": {
           "value": {
             "id": "31372a07-7ac7-8186-b6fc-fb89ffa02db8",
-            "version": 294,
+            "version": 303,
             "type": "collection_view_page",
             "view_ids": [
               "31372a07-7ac7-8103-98bb-000ca2522c4b"
@@ -185,7 +185,7 @@
               }
             ],
             "created_time": 1772130839482,
-            "last_edited_time": 1791727970292,
+            "last_edited_time": 1792350625341,
             "parent_id": "29e72a07-7ac7-8030-8de1-e0c67b827815",
             "parent_table": "block",
             "alive": true,
@@ -720,7 +720,7 @@
         "value": {
           "value": {
             "id": "31372a07-7ac7-8103-98bb-000ca2522c4b",
-            "version": 648,
+            "version": 666,
             "type": "table",
             "format": {
               "property_filters": [
@@ -822,6 +822,14 @@
               "3da72a07-7ac7-8065-a35f-f36655af5e1b",
               "3da72a07-7ac7-8007-b2e4-f823b31342ba",
               "3da72a07-7ac7-806a-b6ed-c89562341003",
+              "3fd72a07-7ac7-80c1-83eb-cee7fff0106a",
+              "3fd72a07-7ac7-8048-9eb5-e0ea47a1f2c2",
+              "3fd72a07-7ac7-804c-90a9-f460a9e1def5",
+              "3fd72a07-7ac7-8020-909d-e91ae7557a5b",
+              "3fd72a07-7ac7-8011-8820-c1f0fb59dab8",
+              "3fd72a07-7ac7-8027-979b-e4a71464dbb8",
+              "3fd72a07-7ac7-808d-b561-e155cf905ede",
+              "3fd72a07-7ac7-808f-923d-dff943846195",
               "3f672a07-7ac7-8050-a61c-df2156dadd39",
               "3f672a07-7ac7-8074-a13e-eccdeb31d3e6",
               "3f572a07-7ac7-80b8-8636-c57268427f6b",
@@ -1185,7 +1193,7 @@
             ],
             "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
             "created_time": 1788106026083,
-            "last_edited_time": 1791727970292,
+            "last_edited_time": 1792350625341,
             "created_by_table": "notion_user",
             "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
             "nav_parent_table": "block",
