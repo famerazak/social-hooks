@@ -121,7 +121,7 @@
         "value": {
           "value": {
             "id": "31372a07-7ac7-8186-b6fc-fb89ffa02db8",
-            "version": 303,
+            "version": 310,
             "type": "collection_view_page",
             "view_ids": [
               "31372a07-7ac7-8103-98bb-000ca2522c4b"
@@ -159,7 +159,7 @@
               }
             ],
             "created_time": 1772130839482,
-            "last_edited_time": 1792350625341,
+            "last_edited_time": 1792962988549,
             "parent_id": "29e72a07-7ac7-8030-8de1-e0c67b827815",
             "parent_table": "block",
             "alive": true,
@@ -624,7 +624,7 @@
         "value": {
           "value": {
             "id": "31372a07-7ac7-8103-98bb-000ca2522c4b",
-            "version": 666,
+            "version": 680,
             "type": "table",
             "format": {
               "property_filters": [
@@ -726,6 +726,13 @@
               "3da72a07-7ac7-8065-a35f-f36655af5e1b",
               "3da72a07-7ac7-8007-b2e4-f823b31342ba",
               "3da72a07-7ac7-806a-b6ed-c89562341003",
+              "40472a07-7ac7-804a-8ba1-d82b2e1ac98f",
+              "40472a07-7ac7-8099-b9f3-eec9ec1950e9",
+              "40472a07-7ac7-8069-b39c-f10f63422586",
+              "40472a07-7ac7-80cf-8e43-e6c1eb577bbf",
+              "40472a07-7ac7-80ae-873d-cf067e60da41",
+              "40472a07-7ac7-80d7-a013-fa39d56f1399",
+              "40472a07-7ac7-8002-8e29-c093c112a4cc",
               "3fd72a07-7ac7-80c1-83eb-cee7fff0106a",
               "3fd72a07-7ac7-8048-9eb5-e0ea47a1f2c2",
               "3fd72a07-7ac7-804c-90a9-f460a9e1def5",
@@ -1097,7 +1104,7 @@
             ],
             "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
             "created_time": 1788106026083,
-            "last_edited_time": 1792350625341,
+            "last_edited_time": 1792962988549,
             "created_by_table": "notion_user",
             "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
             "nav_parent_table": "block",
