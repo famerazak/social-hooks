@@ -20,8 +20,13 @@ def refresh():
         import_notion.RAW = staging / 'raw'
         import_notion.main()  # Any network/incomplete-content failure leaves live data untouched.
         rows = json.loads((staging / 'prompts.json').read_text())
-        if not rows or any(not row['Content Prompt'].strip() for row in rows):
-            raise RuntimeError('Refusing an empty snapshot or a record without a prompt')
+        if not rows:
+            raise RuntimeError('Refusing an empty snapshot')
+        if not any(row['Content Prompt'].strip() for row in rows):
+            raise RuntimeError('Refusing a snapshot with no usable prompts')
+        untitled_ids = [row['id'] for row in rows if not row['Content Prompt'].strip()]
+        if untitled_ids:
+            print('Preserving untitled source rows:', ', '.join(untitled_ids))
         if len({row['id'] for row in rows}) != len(rows):
             raise RuntimeError('Duplicate record IDs')
         with (staging / 'prompts.csv').open(newline='') as file:
@@ -49,6 +54,7 @@ def refresh():
         manifest_path = staging / 'manifest.json'
         manifest = json.loads(manifest_path.read_text())
         manifest['changes'] = changes
+        manifest['untitled_record_ids'] = untitled_ids
         # Preserve documentation from the live dataset; it is not a generated export.
         if (destination / 'README.md').exists():
             manifest['files']['README.md'] = hashlib.sha256((destination / 'README.md').read_bytes()).hexdigest()

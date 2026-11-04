@@ -16,7 +16,7 @@ import refresh_notion as refresh
 
 class RefreshTest(unittest.TestCase):
     def test_refresh_preserves_or_updates_snapshot(self):
-        for outcome in ('failure', 'unchanged', 'changed', 'empty'):
+        for outcome in ('failure', 'unchanged', 'changed', 'empty', 'blank_row', 'all_blank'):
             with self.subTest(outcome=outcome), tempfile.TemporaryDirectory() as temp:
                 destination = Path(temp) / 'notion'
                 destination.mkdir()
@@ -33,6 +33,10 @@ class RefreshTest(unittest.TestCase):
                     rows = [] if outcome == 'empty' else [dict(original[0])]
                     if outcome == 'changed':
                         rows[0]['Content Prompt'] = 'Updated'
+                    if outcome == 'blank_row':
+                        rows.append({'id': 'blank', 'Content Prompt': ''})
+                    if outcome == 'all_blank':
+                        rows[0]['Content Prompt'] = '  '
                     (stage / 'prompts.json').write_text(json.dumps(rows))
                     with (stage / 'prompts.csv').open('w', newline='') as file:
                         writer = csv.DictWriter(file, fieldnames=['id', 'Content Prompt'])
@@ -44,7 +48,7 @@ class RefreshTest(unittest.TestCase):
                     (stage / 'manifest.json').write_text('{"files": {}}')
 
                 with patch.object(refresh.import_notion, 'OUT', destination), patch.object(refresh.import_notion, 'RAW', destination / 'raw'), patch.object(refresh.import_notion, 'main', fetch), contextlib.redirect_stdout(io.StringIO()):
-                    if outcome in ('failure', 'empty'):
+                    if outcome in ('failure', 'empty', 'all_blank'):
                         with self.assertRaises(RuntimeError):
                             refresh.refresh()
                     else:
@@ -52,6 +56,11 @@ class RefreshTest(unittest.TestCase):
                 if outcome == 'changed':
                     self.assertEqual(json.loads(path.read_text())[0]['Content Prompt'], 'Updated')
                     self.assertEqual(json.loads((destination / 'manifest.json').read_text())['changes']['updated'], ['one'])
+                elif outcome == 'blank_row':
+                    self.assertEqual(len(json.loads(path.read_text())), 2)
+                    self.assertEqual(json.loads((destination / 'manifest.json').read_text())['untitled_record_ids'], ['blank'])
+                    with (destination / 'prompts.csv').open(newline='') as file:
+                        self.assertEqual(len(list(csv.DictReader(file))), 2)
                 else:
                     self.assertEqual(path.read_bytes(), before)
 

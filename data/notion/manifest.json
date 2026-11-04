@@ -2,10 +2,10 @@
   "title": "IG Growth Club - Content Prompts",
   "description": "Welcome to your master list of IG content ideas (for Reels and Carousels). Each prompt is organized by Content Pillar with real examples to inspire you and help you create content with strategy and purpose.",
   "source_url": "https://workable-fedora-9e0.notion.site/31372a077ac78186b6fcfb89ffa02db8?v=31372a077ac7810398bb000ca2522c4b",
-  "retrieved_at": "2026-10-26T14:14:04.030094+00:00",
-  "current_query_count": 350,
-  "saved_view_reference_count": 406,
-  "exported_count": 350,
+  "retrieved_at": "2026-11-04T16:07:51.956304+00:00",
+  "current_query_count": 358,
+  "saved_view_reference_count": 415,
+  "exported_count": 358,
   "entries_with_body": 5,
   "missing_content_blocks": [],
   "request_errors": {},
@@ -40,6 +40,7 @@
     "3d372a07-7ac7-806f-a54c-e199f7034292",
     "3da72a07-7ac7-8065-a35f-f36655af5e1b",
     "3da72a07-7ac7-8007-b2e4-f823b31342ba",
+    "40b72a07-7ac7-80e9-b69f-cfc0a022f2c2",
     "3bc72a07-7ac7-805e-b97e-cff5bd34b7bb",
     "3b772a07-7ac7-806a-a609-d2e703d240b4",
     "39b72a07-7ac7-805d-a7c2-c056ec8e60b7",
@@ -69,22 +70,26 @@
   ],
   "scope": "Public database properties and accessible descendant blocks. External Instagram content and binary attachments are not downloaded. Raw endpoint responses preserve rich text and metadata.",
   "files": {
-    "prompts.csv": "4a3333c8809f39c268f4203849ce490dd6971d9afb26ead01b1039962f6a0e1d",
-    "prompts.sqlite3": "ec879be81442b3f35de9809e784428f92cc67064f6aea5ce2cda1cfdf3c30ac0",
-    "prompts.json": "96086b1b5760fd578c673843244da5b0b45d36f510ae54e69c0fc4a6d40dede6",
+    "prompts.sqlite3": "64e30e9fcc6f25c2104e46110d3ef61c8bc3137cf45d5cc2c443b4575a206bca",
+    "prompts.json": "5f3bff2830fd58783f73903cd6a94a09f091240f2957118a8f748835f8542c33",
+    "prompts.csv": "f021dfe055e0b2bdea12e0cfec8aa63e518bf90ad50a6899ea342d17af155c69",
     "README.md": "e324810f0e29c37cce89fddf5e29cba2fe73154c08ae7cdc04de5d5d90630032"
   },
   "changes": {
     "added": [
-      "40472a07-7ac7-8002-8e29-c093c112a4cc",
-      "40472a07-7ac7-804a-8ba1-d82b2e1ac98f",
-      "40472a07-7ac7-8069-b39c-f10f63422586",
-      "40472a07-7ac7-8099-b9f3-eec9ec1950e9",
-      "40472a07-7ac7-80ae-873d-cf067e60da41",
-      "40472a07-7ac7-80cf-8e43-e6c1eb577bbf",
-      "40472a07-7ac7-80d7-a013-fa39d56f1399"
+      "40b72a07-7ac7-8027-a2cc-ed4539cc85a7",
+      "40b72a07-7ac7-8036-adba-ee83ace4f0bd",
+      "40b72a07-7ac7-803a-9a46-d03c9de1ee09",
+      "40b72a07-7ac7-8040-8494-d2e9d4bea8be",
+      "40b72a07-7ac7-8085-9fc4-e381fb68e7b8",
+      "40b72a07-7ac7-80b0-ab3b-d6477fe21f0f",
+      "40b72a07-7ac7-80e7-ad15-eb9b24966e23",
+      "40b72a07-7ac7-80e9-851e-cc38d5ac7840"
     ],
     "removed": [],
     "updated": []
-  }
+  },
+  "untitled_record_ids": [
+    "40b72a07-7ac7-803a-9a46-d03c9de1ee09"
+  ]
 }

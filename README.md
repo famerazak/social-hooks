@@ -23,3 +23,5 @@ python -m unittest discover -s tests -v
 ```
 
 The original importer remains available in `scripts/import_notion.py`; use the refresh wrapper for routine updates because it protects the last successful snapshot during retrieval and validation.
+
+Blank or untitled source rows are retained in the exports and listed under `untitled_record_ids` in the manifest. A snapshot with zero records or no usable prompts is still rejected. Changes to the importer, tests, or workflow on main also trigger a refresh; automated data commits do not retrigger it.

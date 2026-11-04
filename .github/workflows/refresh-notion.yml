@@ -3,6 +3,12 @@ name: Refresh Notion content
 on:
   schedule:
     - cron: '17 7 * * *' # Daily at 07:17 UTC (08:17/09:17 Europe/Madrid).
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/refresh-notion.yml'
+      - 'scripts/**'
+      - 'tests/**'
   workflow_dispatch:
 
 permissions:
@@ -17,8 +23,8 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
       - name: Verify refresh safeguards
