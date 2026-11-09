@@ -7,6 +7,18 @@
         "blockIds": [
           "3da72a07-7ac7-806a-b6ed-c89562341003",
           "40b72a07-7ac7-803a-9a46-d03c9de1ee09",
+          "41272a07-7ac7-801b-a2b6-d3227d7befcc",
+          "41272a07-7ac7-8040-9f41-cc0f2288076d",
+          "41272a07-7ac7-8054-b7a9-fb6c49d04e97",
+          "41272a07-7ac7-801d-980d-f864741efee4",
+          "41272a07-7ac7-80f9-bcb1-db3c12a9d919",
+          "41272a07-7ac7-80af-8bf1-f6ec1e5b9557",
+          "41272a07-7ac7-801e-bd2b-d64ecdaca850",
+          "41272a07-7ac7-80bd-a5ff-d8b525cdc864",
+          "41272a07-7ac7-801e-b25b-e5e3b7807114",
+          "41272a07-7ac7-8027-a948-ef199ef31e21",
+          "41272a07-7ac7-8048-9697-e2357d9351a3",
+          "41272a07-7ac7-80f3-890f-fc32825a7f68",
           "40b72a07-7ac7-80e7-ad15-eb9b24966e23",
           "40b72a07-7ac7-8027-a2cc-ed4539cc85a7",
           "40b72a07-7ac7-80b0-ab3b-d6477fe21f0f",
@@ -367,7 +379,8 @@
         "hasMore": false
       }
     },
-    "sizeHint": 358
+    "sizeHint": 370,
+    "rowCountStatus": "under"
   },
   "recordMap": {
     "__version__": 3,
@@ -548,6 +561,1881 @@
                       "i": [
                         {
                           "t": "s"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "41272a07-7ac7-801b-a2b6-d3227d7befcc": {
+        "spaceId": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+        "value": {
+          "value": {
+            "id": "41272a07-7ac7-801b-a2b6-d3227d7befcc",
+            "version": 3,
+            "type": "page",
+            "created_time": 1794166927102,
+            "last_edited_time": 1794166927119,
+            "parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "parent_table": "collection",
+            "alive": true,
+            "created_by_table": "notion_user",
+            "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+            "crdt_format_version": 1,
+            "nav_parent_table": "collection",
+            "nav_parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "crdt_data": {
+              "title": {
+                "r": "HjFuy-9hE7yJ_OLswWxY0w,\"start\",\"end\"",
+                "n": {
+                  "HjFuy-9hE7yJ_OLswWxY0w,\"start\",\"end\"": {
+                    "s": {
+                      "x": "HjFuy-9hE7yJ_OLswWxY0w",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "41272a07-7ac7-8040-9f41-cc0f2288076d": {
+        "spaceId": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+        "value": {
+          "value": {
+            "id": "41272a07-7ac7-8040-9f41-cc0f2288076d",
+            "version": 3,
+            "type": "page",
+            "created_time": 1794167730093,
+            "last_edited_time": 1794167730103,
+            "parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "parent_table": "collection",
+            "alive": true,
+            "created_by_table": "notion_user",
+            "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+            "crdt_format_version": 1,
+            "nav_parent_table": "collection",
+            "nav_parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "crdt_data": {
+              "title": {
+                "r": "IGD4RNcbcJGGG1HOubI3XQ,\"start\",\"end\"",
+                "n": {
+                  "IGD4RNcbcJGGG1HOubI3XQ,\"start\",\"end\"": {
+                    "s": {
+                      "x": "IGD4RNcbcJGGG1HOubI3XQ",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "41272a07-7ac7-8054-b7a9-fb6c49d04e97": {
+        "spaceId": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+        "value": {
+          "value": {
+            "id": "41272a07-7ac7-8054-b7a9-fb6c49d04e97",
+            "version": 3,
+            "type": "page",
+            "created_time": 1794168096354,
+            "last_edited_time": 1794168096365,
+            "parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "parent_table": "collection",
+            "alive": true,
+            "created_by_table": "notion_user",
+            "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+            "crdt_format_version": 1,
+            "nav_parent_table": "collection",
+            "nav_parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "crdt_data": {
+              "title": {
+                "r": "BgeV9hNk3YSnmiPqVvBdlQ,\"start\",\"end\"",
+                "n": {
+                  "BgeV9hNk3YSnmiPqVvBdlQ,\"start\",\"end\"": {
+                    "s": {
+                      "x": "BgeV9hNk3YSnmiPqVvBdlQ",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "41272a07-7ac7-801d-980d-f864741efee4": {
+        "spaceId": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+        "value": {
+          "value": {
+            "id": "41272a07-7ac7-801d-980d-f864741efee4",
+            "version": 3,
+            "type": "page",
+            "created_time": 1794168096457,
+            "last_edited_time": 1794168096462,
+            "parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "parent_table": "collection",
+            "alive": true,
+            "created_by_table": "notion_user",
+            "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+            "crdt_format_version": 1,
+            "nav_parent_table": "collection",
+            "nav_parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "crdt_data": {
+              "title": {
+                "r": "0P7eG3AXa2uRyFRZjchM3w,\"start\",\"end\"",
+                "n": {
+                  "0P7eG3AXa2uRyFRZjchM3w,\"start\",\"end\"": {
+                    "s": {
+                      "x": "0P7eG3AXa2uRyFRZjchM3w",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "41272a07-7ac7-80f9-bcb1-db3c12a9d919": {
+        "spaceId": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+        "value": {
+          "value": {
+            "id": "41272a07-7ac7-80f9-bcb1-db3c12a9d919",
+            "version": 2845,
+            "type": "page",
+            "properties": {
+              "BcI_": [
+                [
+                  "If I’m on your feed, it’s because sometime in the last week you said,  I really need to start dressing better.  Your phone was listening…so here I am. \n\nIf I’m on your feed, it’s because sometime in the last week you said, I need a beautiful floral centerpiece for my Thanksgiving table.   Your phone was listening…so here I am.  "
+                ]
+              ],
+              "LR:i": [
+                [
+                  "https://www.instagram.com/reels/DeMgxS-R734/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reels/DeMgxS-R734/"
+                    ]
+                  ]
+                ]
+              ],
+              "UPBc": [
+                [
+                  "‣",
+                  [
+                    [
+                      "d",
+                      {
+                        "type": "date",
+                        "start_date": "2026-11-09"
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              "`RXF": [
+                [
+                  "Reel"
+                ]
+              ],
+              "c~M:": [
+                [
+                  "Laugh"
+                ]
+              ],
+              "hJCm": [
+                [
+                  "Universal"
+                ]
+              ],
+              "jIbF": [
+                [
+                  "This is a cute way to introduce yourself to new viewers, I call it “Welcome Home” content.  You are telling viewers exactly who your account is for and what you offer.  Notice how she introduces herself in her caption and tells you who she helps and how she helps them.  This is top-of-funnel content that would be excellent for Trial Reels. \n\nThis prompt works best for accounts that are not in sensitive niches, because it’s meant to be light-hearted and a bit jokey.  "
+                ]
+              ],
+              "title": [
+                [
+                  "If I’m on your feed, it’s because…"
+                ]
+              ]
+            },
+            "format": {
+              "social_media_image_preview_url": "attachment:5b172b01-a3e8-4236-9f8b-b6b3d4fbed04:SocialMediaPreviewImage.png"
+            },
+            "created_time": 1794171783295,
+            "last_edited_time": 1794172244569,
+            "parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "parent_table": "collection",
+            "alive": true,
+            "file_ids": [
+              "5b172b01-a3e8-4236-9f8b-b6b3d4fbed04"
+            ],
+            "created_by_table": "notion_user",
+            "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+            "crdt_format_version": 1,
+            "nav_parent_table": "collection",
+            "nav_parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "crdt_data": {
+              "title": {
+                "r": "DxWRH1qM-TpnaKNQSa4HqA,\"start\",\"end\"",
+                "n": {
+                  "DxWRH1qM-TpnaKNQSa4HqA,\"start\",\"end\"": {
+                    "s": {
+                      "x": "DxWRH1qM-TpnaKNQSa4HqA",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 1,
+                          "c": "I"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            6
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            1
+                          ],
+                          "l": 3,
+                          "c": "f I"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            10
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            8
+                          ],
+                          "l": 15,
+                          "c": "’m on your feed"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            26
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            24
+                          ],
+                          "l": 4,
+                          "c": ", it"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            31
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            29
+                          ],
+                          "l": 10,
+                          "c": "’s because"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            47
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            40
+                          ],
+                          "l": 1,
+                          "c": "…"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            44
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            40
+                          ],
+                          "l": -3
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            41
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            40
+                          ],
+                          "l": -3
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            30
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            29
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            25
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            24
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            9
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            8
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            3
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            1
+                          ],
+                          "l": -3
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            2
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            1
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "41272a07-7ac7-80af-8bf1-f6ec1e5b9557": {
+        "spaceId": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+        "value": {
+          "value": {
+            "id": "41272a07-7ac7-80af-8bf1-f6ec1e5b9557",
+            "version": 1668,
+            "type": "page",
+            "properties": {
+              "BcI_": [
+                [
+                  "Things I do in the gym in my 40’s, so my 60 year old self thanks me. \n\nThings I write to my email subscribers today so that they’re ready to buy when I launch my next product.\n\nThings I do on Sunday, so that my house doesn’t compleltely fall apart by Tuesday (as a mom of four teenagers)."
+                ]
+              ],
+              "LR:i": [
+                [
+                  "https://www.instagram.com/p/DdPpPQ5EZee/?img_index=1",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/p/DdPpPQ5EZee/?img_index=1"
+                    ]
+                  ]
+                ]
+              ],
+              "UPBc": [
+                [
+                  "‣",
+                  [
+                    [
+                      "d",
+                      {
+                        "type": "date",
+                        "start_date": "2026-11-09"
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              "`RXF": [
+                [
+                  "Carousel"
+                ]
+              ],
+              "c~M:": [
+                [
+                  "Learn"
+                ]
+              ],
+              "hJCm": [
+                [
+                  "Universal"
+                ]
+              ],
+              "jIbF": [
+                [
+                  "This is an identity hook. Instead of leading with tips, you lead with who your audience wants to become: the calm mom, the booked-out business owner, the woman is strong and fit in her 60’s, etc. Then you share the habits you use to be that person."
+                ]
+              ],
+              "title": [
+                [
+                  "Things I do so I can be ___[the version of me I’m going for]"
+                ]
+              ]
+            },
+            "format": {
+              "social_media_image_preview_url": "attachment:a99b4e69-33eb-484e-bf03-b98a7d162b7b:SocialMediaPreviewImage.png"
+            },
+            "created_time": 1794171072002,
+            "last_edited_time": 1794171729526,
+            "parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "parent_table": "collection",
+            "alive": true,
+            "file_ids": [
+              "a0080936-4cea-4ed5-ac67-f4d99e6b4588",
+              "a99b4e69-33eb-484e-bf03-b98a7d162b7b"
+            ],
+            "created_by_table": "notion_user",
+            "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+            "crdt_format_version": 1,
+            "nav_parent_table": "collection",
+            "nav_parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "crdt_data": {
+              "title": {
+                "r": "9XLVkyGKFzEnlshEb2C8Bw,\"start\",\"end\"",
+                "n": {
+                  "9XLVkyGKFzEnlshEb2C8Bw,\"start\",\"end\"": {
+                    "s": {
+                      "x": "9XLVkyGKFzEnlshEb2C8Bw",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 12,
+                          "c": "Things I do "
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            34
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            12
+                          ],
+                          "l": 6,
+                          "c": "so I c"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            42
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            39
+                          ],
+                          "l": 5,
+                          "c": "an be"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            83
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            46
+                          ],
+                          "l": 4,
+                          "c": " ___"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            47
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            46
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            49
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            47
+                          ],
+                          "l": 20,
+                          "c": "[the version of me I"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            70
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            68
+                          ],
+                          "l": 13,
+                          "c": "’m going for]"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            69
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            68
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            48
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            47
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            40
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            39
+                          ],
+                          "l": -2
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            13
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            12
+                          ],
+                          "l": -3
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            19
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            15
+                          ],
+                          "l": -15
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            16
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            15
+                          ],
+                          "l": -3
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "41272a07-7ac7-801e-bd2b-d64ecdaca850": {
+        "spaceId": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+        "value": {
+          "value": {
+            "id": "41272a07-7ac7-801e-bd2b-d64ecdaca850",
+            "version": 4169,
+            "type": "page",
+            "properties": {
+              "BcI_": [
+                [
+                  "Since the internet probably tried to sell you a 12-step beauty routine today, I’m going to show you the 3 steps your skin actually needs (a"
+                ],
+                [
+                  "s a licensed esthetician)",
+                  [
+                    [
+                      "i"
+                    ]
+                  ]
+                ],
+                [
+                  "\n\nSince the internet probably told you 40 “must-see” spots in Paris today, I’m going to tell you 5 places locals actually go. \n\nSince the internet has probably convinced you that you need an entirely new wardrobe, I’m going to show you how to create 4 new outfits with items you already own. "
+                ]
+              ],
+              "LR:i": [
+                [
+                  "https://www.instagram.com/reels/DfDakQ5xIeZ/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reels/DfDakQ5xIeZ/"
+                    ]
+                  ]
+                ]
+              ],
+              "UPBc": [
+                [
+                  "‣",
+                  [
+                    [
+                      "d",
+                      {
+                        "type": "date",
+                        "start_date": "2026-11-09"
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              "`RXF": [
+                [
+                  "Reel"
+                ]
+              ],
+              "c~M:": [
+                [
+                  "Shift"
+                ]
+              ],
+              "hJCm": [
+                [
+                  "Universal"
+                ]
+              ],
+              "jIbF": [
+                [
+                  "Here you are differentiating yourself with your messaging:  since the internet probably told you X,  I’m going to tell you Y instead.  Consider what common messages are in your niche, and how you perceive/approach them differently.  Notice how she added an identifier in her text on screen (”as a nervous system based occupational therapist”).  I encourage you to do this as often as possible (or as often as it makes sense in the context of the message) in your content, as it positions you as the expert. "
+                ]
+              ],
+              "title": [
+                [
+                  "Since the internet probably told you…"
+                ]
+              ]
+            },
+            "format": {
+              "social_media_image_preview_url": "attachment:aca5cb44-b655-4257-9e61-d51a9fd37542:SocialMediaPreviewImage.png"
+            },
+            "created_time": 1794170159349,
+            "last_edited_time": 1794170989799,
+            "parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "parent_table": "collection",
+            "alive": true,
+            "file_ids": [
+              "bdd4da28-7adc-45e5-93be-d8cbc5df9f50",
+              "aca5cb44-b655-4257-9e61-d51a9fd37542"
+            ],
+            "created_by_table": "notion_user",
+            "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+            "crdt_format_version": 1,
+            "nav_parent_table": "collection",
+            "nav_parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "crdt_data": {
+              "title": {
+                "r": "h4-naI9TLqWvazdhriL4zQ,\"start\",\"end\"",
+                "n": {
+                  "h4-naI9TLqWvazdhriL4zQ,\"start\",\"end\"": {
+                    "s": {
+                      "x": "h4-naI9TLqWvazdhriL4zQ",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 19,
+                          "c": "Since the internet "
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            34
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            19
+                          ],
+                          "l": 9,
+                          "c": "probably "
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            32
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            19
+                          ],
+                          "l": -2
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            20
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            19
+                          ],
+                          "l": 8,
+                          "c": "told you"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            31
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            27
+                          ],
+                          "l": 1,
+                          "c": "…"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            28
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            27
+                          ],
+                          "l": -3
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "41272a07-7ac7-80bd-a5ff-d8b525cdc864": {
+        "spaceId": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+        "value": {
+          "value": {
+            "id": "41272a07-7ac7-80bd-a5ff-d8b525cdc864",
+            "version": 1282,
+            "type": "page",
+            "properties": {
+              "BcI_": [
+                [
+                  "A few examples of how it’s been done: \n  • "
+                ],
+                [
+                  "https://www.instagram.com/reel/DfTYO0ThNVd/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reel/DfTYO0ThNVd/"
+                    ]
+                  ]
+                ],
+                [
+                  " \n  • "
+                ],
+                [
+                  "https://www.instagram.com/reel/DfSenVWI_kn/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reel/DfSenVWI_kn/"
+                    ]
+                  ]
+                ],
+                [
+                  "\n  • "
+                ],
+                [
+                  "https://www.instagram.com/reel/DfXWN_EvdRs/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reel/DfXWN_EvdRs/"
+                    ]
+                  ]
+                ]
+              ],
+              "LR:i": [
+                [
+                  "https://www.instagram.com/reels/DfQqKz8tfz8/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reels/DfQqKz8tfz8/"
+                    ]
+                  ]
+                ]
+              ],
+              "UPBc": [
+                [
+                  "‣",
+                  [
+                    [
+                      "d",
+                      {
+                        "type": "date",
+                        "start_date": "2026-11-09"
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              "`RXF": [
+                [
+                  "Reel"
+                ]
+              ],
+              "c~M:": [
+                [
+                  "Feel"
+                ]
+              ],
+              "hJCm": [
+                [
+                  "Service-Providers"
+                ]
+              ],
+              "jIbF": [
+                [
+                  "This one is clearly for one specific niche: ADHD-related services.  The audio is the main draw here as it helps your audience feel seen and heard and understood. Here is the audio: "
+                ],
+                [
+                  "https://www.instagram.com/reel/DfXWN_EvdRs/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reel/DfXWN_EvdRs/"
+                    ]
+                  ]
+                ],
+                [
+                  ". You want to pair this with clips that change every 2-4 seconds, see examples below:"
+                ]
+              ],
+              "title": [
+                [
+                  "ADHD is one of the most painful things to live with"
+                ]
+              ]
+            },
+            "format": {
+              "social_media_image_preview_url": "attachment:5037d2b8-26da-4af1-b8e2-631e56f16cd7:SocialMediaPreviewImage.png"
+            },
+            "created_time": 1794169695480,
+            "last_edited_time": 1794170061879,
+            "parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "parent_table": "collection",
+            "alive": true,
+            "file_ids": [
+              "5037d2b8-26da-4af1-b8e2-631e56f16cd7"
+            ],
+            "created_by_table": "notion_user",
+            "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+            "crdt_format_version": 1,
+            "nav_parent_table": "collection",
+            "nav_parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "crdt_data": {
+              "title": {
+                "r": "3h2wSR7w7NLZ4_w2orAPBQ,\"start\",\"end\"",
+                "n": {
+                  "3h2wSR7w7NLZ4_w2orAPBQ,\"start\",\"end\"": {
+                    "s": {
+                      "x": "3h2wSR7w7NLZ4_w2orAPBQ",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 17,
+                          "c": "ADHD is one of th"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            28
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            17
+                          ],
+                          "l": 34,
+                          "c": "e most painful things to live with"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            18
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            17
+                          ],
+                          "l": -10
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "41272a07-7ac7-801e-b25b-e5e3b7807114": {
+        "spaceId": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+        "value": {
+          "value": {
+            "id": "41272a07-7ac7-801e-b25b-e5e3b7807114",
+            "version": 2610,
+            "type": "page",
+            "properties": {
+              "BcI_": [
+                [
+                  "6 ways to feel calmer this week\n\n7 ways to feel more life yourself again this week\n\n5 ways to feel more in-control of your home-life this week\n\n4 ways to feel more confident at work this week"
+                ]
+              ],
+              "LR:i": [
+                [
+                  "https://www.instagram.com/p/De7MJNRmkfA/?img_index=4",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/p/De7MJNRmkfA/?img_index=4"
+                    ]
+                  ]
+                ]
+              ],
+              "UPBc": [
+                [
+                  "‣",
+                  [
+                    [
+                      "d",
+                      {
+                        "type": "date",
+                        "start_date": "2026-11-09"
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              "`RXF": [
+                [
+                  "Carousel"
+                ]
+              ],
+              "c~M:": [
+                [
+                  "Learn"
+                ]
+              ],
+              "hJCm": [
+                [
+                  "Universal"
+                ]
+              ],
+              "jIbF": [
+                [
+                  "This one is good for coaches or anyone looking to inspire or share any sort of intentional living with their audience.  Notice the copy in the slides, it’s written casually and in a friend-to-friend kind of way, and clearly not written by AI (which is refreshing!). Notice how this creator has turned down the brightness of each image so that the text on screen is very easy to read. And lastly, notice “this week”, this keeps it low pressure and doable.  "
+                ]
+              ],
+              "title": [
+                [
+                  "# of ways to feel more ___ this week"
+                ]
+              ]
+            },
+            "format": {
+              "social_media_image_preview_url": "attachment:345ed8b1-7a5e-4dad-841d-3678dbbce75d:SocialMediaPreviewImage.png"
+            },
+            "created_time": 1794168552400,
+            "last_edited_time": 1794169645987,
+            "parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "parent_table": "collection",
+            "alive": true,
+            "file_ids": [
+              "345ed8b1-7a5e-4dad-841d-3678dbbce75d"
+            ],
+            "created_by_table": "notion_user",
+            "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+            "crdt_format_version": 1,
+            "nav_parent_table": "collection",
+            "nav_parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "crdt_data": {
+              "title": {
+                "r": "V0h5A1OeIFuB1VCub2e3tQ,\"start\",\"end\"",
+                "n": {
+                  "V0h5A1OeIFuB1VCub2e3tQ,\"start\",\"end\"": {
+                    "s": {
+                      "x": "V0h5A1OeIFuB1VCub2e3tQ",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 4,
+                          "c": "# of"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            7
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            4
+                          ],
+                          "l": 32,
+                          "c": " ways to feel more ___ this week"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            5
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            4
+                          ],
+                          "l": -2
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "41272a07-7ac7-8027-a948-ef199ef31e21": {
+        "spaceId": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+        "value": {
+          "value": {
+            "id": "41272a07-7ac7-8027-a948-ef199ef31e21",
+            "version": 1540,
+            "type": "page",
+            "properties": {
+              "LR:i": [
+                [
+                  "https://www.instagram.com/reels/De_6FX_Tiaf/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reels/De_6FX_Tiaf/"
+                    ]
+                  ]
+                ]
+              ],
+              "UPBc": [
+                [
+                  "‣",
+                  [
+                    [
+                      "d",
+                      {
+                        "type": "date",
+                        "start_date": "2026-11-09"
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              "`RXF": [
+                [
+                  "Reel"
+                ]
+              ],
+              "c~M:": [
+                [
+                  "Feel"
+                ]
+              ],
+              "hJCm": [
+                [
+                  "Creatives"
+                ]
+              ],
+              "jIbF": [
+                [
+                  "This is another one for those in aesthetic niches and it’s all about the reveal of your art/craft and watching it come to life, quick clip by quick clip.  Notice how the clips are aligned to the beat of the music.  Here is the audio to use: "
+                ],
+                [
+                  "https://www.instagram.com/reels/audio/174964068726036/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reels/audio/174964068726036/"
+                    ]
+                  ]
+                ],
+                [
+                  ". This could work well for anyone who can show the different stages on their work:  crafters, painters, decorators, bakers, stylists, wedding venues/planners, designers, builders, remodelers, or even those who have undergone a physical transformation. "
+                ]
+              ],
+              "title": [
+                [
+                  "The Reveal"
+                ]
+              ]
+            },
+            "format": {
+              "social_media_image_preview_url": "attachment:4f671e83-7150-4f3d-bbbd-b92c66ec6561:SocialMediaPreviewImage.png"
+            },
+            "created_time": 1794168101526,
+            "last_edited_time": 1794168506081,
+            "parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "parent_table": "collection",
+            "alive": true,
+            "file_ids": [
+              "4f671e83-7150-4f3d-bbbd-b92c66ec6561"
+            ],
+            "created_by_table": "notion_user",
+            "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+            "crdt_format_version": 1,
+            "nav_parent_table": "collection",
+            "nav_parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "crdt_data": {
+              "title": {
+                "r": "2YXKFubXJPbwnAr7tXZoEQ,\"start\",\"end\"",
+                "n": {
+                  "2YXKFubXJPbwnAr7tXZoEQ,\"start\",\"end\"": {
+                    "s": {
+                      "x": "2YXKFubXJPbwnAr7tXZoEQ",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            19
+                          ],
+                          "o": "start",
+                          "l": 10,
+                          "c": "The Reveal"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            6
+                          ],
+                          "o": "start",
+                          "l": -6
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            15
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            11
+                          ],
+                          "l": -4
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            12
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            11
+                          ],
+                          "l": -3
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -5
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "41272a07-7ac7-8048-9697-e2357d9351a3": {
+        "spaceId": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+        "value": {
+          "value": {
+            "id": "41272a07-7ac7-8048-9697-e2357d9351a3",
+            "version": 870,
+            "type": "page",
+            "properties": {
+              "BcI_": [
+                [
+                  "Other examples: \n  • "
+                ],
+                [
+                  "https://www.instagram.com/p/DdVPI5nxW9C/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/p/DdVPI5nxW9C/"
+                    ]
+                  ]
+                ],
+                [
+                  "\n  • "
+                ],
+                [
+                  "https://www.instagram.com/reel/DWpUaJfiaAF/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reel/DWpUaJfiaAF/"
+                    ]
+                  ]
+                ],
+                [
+                  "\n  • "
+                ],
+                [
+                  "https://www.instagram.com/reel/DedPJKShdbq/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reel/DedPJKShdbq/"
+                    ]
+                  ]
+                ],
+                [
+                  "\n  • "
+                ],
+                [
+                  "https://www.instagram.com/reel/DexTZwRIz54/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reel/DexTZwRIz54/"
+                    ]
+                  ]
+                ]
+              ],
+              "LR:i": [
+                [
+                  "https://www.instagram.com/reels/DcluXfKO46V/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reels/DcluXfKO46V/"
+                    ]
+                  ]
+                ]
+              ],
+              "UPBc": [
+                [
+                  "‣",
+                  [
+                    [
+                      "d",
+                      {
+                        "type": "date",
+                        "start_date": "2026-11-09"
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              "`RXF": [
+                [
+                  "Reel"
+                ]
+              ],
+              "c~M:": [
+                [
+                  "Feel"
+                ]
+              ],
+              "hJCm": [
+                [
+                  "Creatives"
+                ]
+              ],
+              "jIbF": [
+                [
+                  "This one is good for all the creatives and those with an aesthetic niche:  painters, crafters, decorators, bakers, photographers, designers, stylists, etc. Use this audio: "
+                ],
+                [
+                  "https://www.instagram.com/reels/audio/32799153603033780/?e=0d95cc46-f6b1-4d66-b989-14f21a19323e&g=5",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reels/audio/32799153603033780/?e=0d95cc46-f6b1-4d66-b989-14f21a19323e&g=5"
+                    ]
+                  ]
+                ],
+                [
+                  " and pair it with footage of you to start (ideal so they make the association with you) and then clips of your work that align with the beat of the miusic.  "
+                ]
+              ],
+              "title": [
+                [
+                  "I’m an artist. "
+                ]
+              ]
+            },
+            "format": {
+              "social_media_image_preview_url": "attachment:bba92b96-3397-44d0-975b-eb2032d9c23a:SocialMediaPreviewImage.png"
+            },
+            "created_time": 1794167747725,
+            "last_edited_time": 1794168063969,
+            "parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "parent_table": "collection",
+            "alive": true,
+            "file_ids": [
+              "bba92b96-3397-44d0-975b-eb2032d9c23a"
+            ],
+            "created_by_table": "notion_user",
+            "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+            "crdt_format_version": 1,
+            "nav_parent_table": "collection",
+            "nav_parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "crdt_data": {
+              "title": {
+                "r": "ZRB5WeeisxKlneBnoGGmow,\"start\",\"end\"",
+                "n": {
+                  "ZRB5WeeisxKlneBnoGGmow,\"start\",\"end\"": {
+                    "s": {
+                      "x": "ZRB5WeeisxKlneBnoGGmow",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 1,
+                          "c": "I"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            3
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            1
+                          ],
+                          "l": 14,
+                          "c": "’m an artist. "
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            2
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            1
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "41272a07-7ac7-80f3-890f-fc32825a7f68": {
+        "spaceId": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+        "value": {
+          "value": {
+            "id": "41272a07-7ac7-80f3-890f-fc32825a7f68",
+            "version": 3806,
+            "type": "page",
+            "properties": {
+              "BcI_": [
+                [
+                  "I’m 35.  I paid off $40K in debt in three years a single person.  What I wish I’d known at 30.  \n\nI’m 40.  I spent that last 13 years raising 4 little humans.  What I wish I’d known with my first. \n\nI’m 51.  I’m stronger now than I was at 30. What I wish I’d known in my 30’s and 40’s. \n\nI’m 35 and divorced.  I rebuilt my whole life from scratch.  Here’s what I wish I’d known. "
+                ]
+              ],
+              "LR:i": [
+                [
+                  "https://www.instagram.com/reels/DdyWFUesEMY/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reels/DdyWFUesEMY/"
+                    ]
+                  ]
+                ]
+              ],
+              "UPBc": [
+                [
+                  "‣",
+                  [
+                    [
+                      "d",
+                      {
+                        "type": "date",
+                        "start_date": "2026-11-09"
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              "`RXF": [
+                [
+                  "Reel"
+                ]
+              ],
+              "c~M:": [
+                [
+                  "Shift"
+                ]
+              ],
+              "hJCm": [
+                [
+                  "Universal"
+                ]
+              ],
+              "jIbF": [
+                [
+                  "Here you are sharing your lived experience with your audience. It’s big sister/brother energy, where you are saving your audience time and energy by sharing the golden nuggets you learned along the way.  This format works best for niches where: \n  • your audience is going through a transition or a specific stage, or wondering whether they’re on track\n  • you have lived experience or hindsight\n  • the lessons apply to your target audience\nlike motherhood/parenting, coaching, health/wellness, fitness, business, recovery, personal growth, etc.  \n\nNotice the font on screen, “I’m 40” is very large, then the rest of her text on screen is in a more standard size.  This is a common look for this kind of age-related content. Also notice how she asks her audience a question at the end of her caption to get them engaged in converastion. "
+                ]
+              ],
+              "title": [
+                [
+                  "I’m ___[age]. I ___[did/built/survived/learned specific thing].  What I wish I’d known at ___.  "
+                ]
+              ]
+            },
+            "format": {
+              "social_media_image_preview_url": "attachment:8d95a2d7-b4a0-4c30-b3c4-b506e55df17e:SocialMediaPreviewImage.png"
+            },
+            "created_time": 1794166989780,
+            "last_edited_time": 1794167691340,
+            "parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "parent_table": "collection",
+            "alive": true,
+            "file_ids": [
+              "cd5e4fb2-efc0-4a75-89f1-2d688bdede07",
+              "6565e2e0-5c58-467a-aff6-8f864e1feb48",
+              "8d95a2d7-b4a0-4c30-b3c4-b506e55df17e"
+            ],
+            "created_by_table": "notion_user",
+            "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+            "crdt_format_version": 1,
+            "nav_parent_table": "collection",
+            "nav_parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "crdt_data": {
+              "title": {
+                "r": "OVcqi7KJvp6PNwrhwxhmxA,\"start\",\"end\"",
+                "n": {
+                  "OVcqi7KJvp6PNwrhwxhmxA,\"start\",\"end\"": {
+                    "s": {
+                      "x": "OVcqi7KJvp6PNwrhwxhmxA",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 1,
+                          "c": "I"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            3
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            1
+                          ],
+                          "l": 15,
+                          "c": "’m ___[age]. I "
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            21
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            17
+                          ],
+                          "l": 30,
+                          "c": "___[did/built/survived/learned"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            52
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            50
+                          ],
+                          "l": 15,
+                          "c": " specific thing"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            68
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            66
+                          ],
+                          "l": 17,
+                          "c": "].  What I wish I"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            91
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            84
+                          ],
+                          "l": 18,
+                          "c": "’d known at ___.  "
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            90
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            84
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            85
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            84
+                          ],
+                          "l": -5
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            67
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            66
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            51
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            50
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            18
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            17
+                          ],
+                          "l": -3
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AFYqLqHR03ai",
+                            2
+                          ],
+                          "o": [
+                            "AFYqLqHR03ai",
+                            1
+                          ],
+                          "l": -1
                         },
                         {
                           "t": "e"
@@ -64236,6 +66124,10 @@
     "31372a07-7ac7-81a2-a762-000b87e52b41"
   ],
   "allBlockIds": [
+    "41272a07-7ac7-801d-980d-f864741efee4",
+    "41272a07-7ac7-8054-b7a9-fb6c49d04e97",
+    "41272a07-7ac7-8040-9f41-cc0f2288076d",
+    "41272a07-7ac7-801b-a2b6-d3227d7befcc",
     "40b72a07-7ac7-803a-9a46-d03c9de1ee09",
     "3da72a07-7ac7-806a-b6ed-c89562341003",
     "37272a07-7ac7-80f2-be5e-c17aa838e964",
@@ -64408,6 +66300,11 @@
     "31372a07-7ac7-8153-9c5d-c17eee17338d",
     "31372a07-7ac7-81f9-9674-f878ecbc3ff4",
     "31372a07-7ac7-81ff-91fd-c9cbd1e7e1fd",
+    "41272a07-7ac7-80f9-bcb1-db3c12a9d919",
+    "41272a07-7ac7-80af-8bf1-f6ec1e5b9557",
+    "41272a07-7ac7-801e-bd2b-d64ecdaca850",
+    "41272a07-7ac7-801e-b25b-e5e3b7807114",
+    "41272a07-7ac7-80f3-890f-fc32825a7f68",
     "40b72a07-7ac7-80e7-ad15-eb9b24966e23",
     "40b72a07-7ac7-8027-a2cc-ed4539cc85a7",
     "40b72a07-7ac7-80b0-ab3b-d6477fe21f0f",
@@ -64520,6 +66417,8 @@
     "37972a07-7ac7-807d-a515-fced0d772c25",
     "37872a07-7ac7-80fb-90fb-dc5107c656d1",
     "37872a07-7ac7-8066-9ddd-e1aa56143488",
+    "41272a07-7ac7-8027-a948-ef199ef31e21",
+    "41272a07-7ac7-8048-9697-e2357d9351a3",
     "3fd72a07-7ac7-8020-909d-e91ae7557a5b",
     "3fd72a07-7ac7-808f-923d-dff943846195",
     "3ef72a07-7ac7-800d-91f7-d39bd8730c2e",
@@ -64561,6 +66460,7 @@
     "37f72a07-7ac7-8044-b884-effafc371eca",
     "37972a07-7ac7-806e-b2d1-ca4e9a654bb6",
     "37972a07-7ac7-80a2-be38-ca4bd8534c76",
+    "41272a07-7ac7-80bd-a5ff-d8b525cdc864",
     "40472a07-7ac7-8002-8e29-c093c112a4cc",
     "3fd72a07-7ac7-8048-9eb5-e0ea47a1f2c2",
     "3fd72a07-7ac7-808d-b561-e155cf905ede",
@@ -64609,5 +66509,5 @@
       "collectionQuerier"
     ]
   },
-  "lastUpdatedAtMs": 1793548270236
+  "lastUpdatedAtMs": 1794172244899
 }

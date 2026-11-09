@@ -120,7 +120,7 @@
         "value": {
           "value": {
             "id": "31372a07-7ac7-8186-b6fc-fb89ffa02db8",
-            "version": 319,
+            "version": 328,
             "type": "collection_view_page",
             "view_ids": [
               "31372a07-7ac7-8103-98bb-000ca2522c4b"
@@ -158,7 +158,7 @@
               }
             ],
             "created_time": 1772130839482,
-            "last_edited_time": 1793547858126,
+            "last_edited_time": 1794171783309,
             "parent_id": "29e72a07-7ac7-8030-8de1-e0c67b827815",
             "parent_table": "block",
             "alive": true,
@@ -676,7 +676,7 @@
         "value": {
           "value": {
             "id": "31372a07-7ac7-8103-98bb-000ca2522c4b",
-            "version": 699,
+            "version": 723,
             "type": "table",
             "format": {
               "property_filters": [
@@ -780,6 +780,18 @@
               "3da72a07-7ac7-806a-b6ed-c89562341003",
               "40b72a07-7ac7-803a-9a46-d03c9de1ee09",
               "40b72a07-7ac7-80e9-b69f-cfc0a022f2c2",
+              "41272a07-7ac7-801b-a2b6-d3227d7befcc",
+              "41272a07-7ac7-8040-9f41-cc0f2288076d",
+              "41272a07-7ac7-8054-b7a9-fb6c49d04e97",
+              "41272a07-7ac7-801d-980d-f864741efee4",
+              "41272a07-7ac7-80f9-bcb1-db3c12a9d919",
+              "41272a07-7ac7-80af-8bf1-f6ec1e5b9557",
+              "41272a07-7ac7-801e-bd2b-d64ecdaca850",
+              "41272a07-7ac7-80bd-a5ff-d8b525cdc864",
+              "41272a07-7ac7-801e-b25b-e5e3b7807114",
+              "41272a07-7ac7-8027-a948-ef199ef31e21",
+              "41272a07-7ac7-8048-9697-e2357d9351a3",
+              "41272a07-7ac7-80f3-890f-fc32825a7f68",
               "40b72a07-7ac7-80e7-ad15-eb9b24966e23",
               "40b72a07-7ac7-8027-a2cc-ed4539cc85a7",
               "40b72a07-7ac7-80b0-ab3b-d6477fe21f0f",
@@ -1165,7 +1177,7 @@
             ],
             "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
             "created_time": 1788106026083,
-            "last_edited_time": 1793547858126,
+            "last_edited_time": 1794171783309,
             "created_by_table": "notion_user",
             "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
             "nav_parent_table": "block",
