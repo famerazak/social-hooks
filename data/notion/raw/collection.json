@@ -6,6 +6,11 @@
         "type": "results",
         "blockIds": [
           "3da72a07-7ac7-806a-b6ed-c89562341003",
+          "41972a07-7ac7-80b3-bdea-f87047e884c7",
+          "41972a07-7ac7-80c9-b2f0-c0d410a44772",
+          "41972a07-7ac7-80a5-9220-f6b322ae817a",
+          "41972a07-7ac7-8067-b061-ea9af3ef1de4",
+          "41972a07-7ac7-80e8-8de7-ee6ad4252b70",
           "41272a07-7ac7-80f9-bcb1-db3c12a9d919",
           "41272a07-7ac7-80af-8bf1-f6ec1e5b9557",
           "41272a07-7ac7-801e-bd2b-d64ecdaca850",
@@ -374,7 +379,7 @@
         "hasMore": false
       }
     },
-    "sizeHint": 365,
+    "sizeHint": 370,
     "rowCountStatus": "under"
   },
   "recordMap": {
@@ -510,6 +515,904 @@
                             1
                           ],
                           "l": -1
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "41972a07-7ac7-80b3-bdea-f87047e884c7": {
+        "spaceId": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+        "value": {
+          "value": {
+            "id": "41972a07-7ac7-80b3-bdea-f87047e884c7",
+            "version": 3,
+            "type": "page",
+            "created_time": 1794716376848,
+            "last_edited_time": 1794716376861,
+            "parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "parent_table": "collection",
+            "alive": true,
+            "created_by_table": "notion_user",
+            "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+            "crdt_format_version": 1,
+            "nav_parent_table": "collection",
+            "nav_parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "crdt_data": {
+              "title": {
+                "r": "__9u971Ts4z6IPyRnis0XA,\"start\",\"end\"",
+                "n": {
+                  "__9u971Ts4z6IPyRnis0XA,\"start\",\"end\"": {
+                    "s": {
+                      "x": "__9u971Ts4z6IPyRnis0XA",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "41972a07-7ac7-80c9-b2f0-c0d410a44772": {
+        "spaceId": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+        "value": {
+          "value": {
+            "id": "41972a07-7ac7-80c9-b2f0-c0d410a44772",
+            "version": 2585,
+            "type": "page",
+            "properties": {
+              "BcI_": [
+                [
+                  "Dear Instagram, connect me with all the silver foxes who: lift heavy, meal prep on Sundays, and know that their health is their most important asset\n\nDear Instagram, connect me with moms who: are building businesses during nap time, answer DMs with a toddler on their hip, and refuse to choose between motherhood and ambition\n\nDear Instagram, connect me with all the girlies who: are crushing it in corporate, secretly have a side hustle, and are planning their exit strategy during their lunches"
+                ]
+              ],
+              "LR:i": [
+                [
+                  "https://www.instagram.com/reels/DfTUcrANsCl/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reels/DfTUcrANsCl/"
+                    ]
+                  ]
+                ]
+              ],
+              "UPBc": [
+                [
+                  "‣",
+                  [
+                    [
+                      "d",
+                      {
+                        "type": "date",
+                        "start_date": "2026-11-16"
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              "`RXF": [
+                [
+                  "Reel"
+                ]
+              ],
+              "c~M:": [
+                [
+                  "Feel"
+                ]
+              ],
+              "hJCm": [
+                [
+                  "Universal"
+                ]
+              ],
+              "jIbF": [
+                [
+                  "This is “Welcome Home” content, or top-of-funnel content, where you are putting on screen the exact target audience you want to attract.  The key is to describe your target audience as they would describe themselves. \n\nThis reel has the added visual interest of the text zoom effect.  You can achieve this by using keyframes in the IG Edits app and lining those keyframes up with when you zoom in with your fingers.  If you want to use this effect, this is the perfect audio to pair with it: "
+                ],
+                [
+                  "https://www.instagram.com/reels/audio/35471216759159857/?e=55d35b63-2c96-4b32-ad9f-144ceafa8038&g=5",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reels/audio/35471216759159857/?e=55d35b63-2c96-4b32-ad9f-144ceafa8038&g=5"
+                    ]
+                  ]
+                ]
+              ],
+              "title": [
+                [
+                  "Dear Instagram, connect me with ___[target audience] who: are ___[list of attributes and/or goals]"
+                ]
+              ]
+            },
+            "format": {
+              "social_media_image_preview_url": "attachment:a712bf86-e2e4-441d-9e33-3cc6871a2009:SocialMediaPreviewImage.png"
+            },
+            "created_time": 1794716376872,
+            "last_edited_time": 1794717271013,
+            "parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "parent_table": "collection",
+            "alive": true,
+            "file_ids": [
+              "045404d7-6768-41e3-9a54-1cb6a66ef026",
+              "a712bf86-e2e4-441d-9e33-3cc6871a2009"
+            ],
+            "created_by_table": "notion_user",
+            "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+            "crdt_format_version": 1,
+            "nav_parent_table": "collection",
+            "nav_parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "crdt_data": {
+              "title": {
+                "r": "x8fEOrqRZZv2eDAJhD_yBA,\"start\",\"end\"",
+                "n": {
+                  "x8fEOrqRZZv2eDAJhD_yBA,\"start\",\"end\"": {
+                    "s": {
+                      "x": "x8fEOrqRZZv2eDAJhD_yBA",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 16,
+                          "c": "Dear Instagram, "
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            19
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            16
+                          ],
+                          "l": 42,
+                          "c": "connect me with ___[target audience] who: "
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            64
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            60
+                          ],
+                          "l": 14,
+                          "c": "are ___[list o"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            79
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            77
+                          ],
+                          "l": 26,
+                          "c": "f attributes and/or goals]"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            78
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            77
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            61
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            60
+                          ],
+                          "l": -3
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            17
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            16
+                          ],
+                          "l": -2
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "41972a07-7ac7-80a5-9220-f6b322ae817a": {
+        "spaceId": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+        "value": {
+          "value": {
+            "id": "41972a07-7ac7-80a5-9220-f6b322ae817a",
+            "version": 1584,
+            "type": "page",
+            "properties": {
+              "BcI_": [
+                [
+                  "Other examples: \n  •  "
+                ],
+                [
+                  "https://www.instagram.com/reels/DeyJWBOui42/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reels/DeyJWBOui42/"
+                    ]
+                  ]
+                ],
+                [
+                  " \n  • "
+                ],
+                [
+                  "https://www.instagram.com/reel/Der4BMRpUCH/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reel/Der4BMRpUCH/"
+                    ]
+                  ]
+                ],
+                [
+                  " \n  • "
+                ],
+                [
+                  "https://www.instagram.com/reel/DevtK6qo1cm/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reel/DevtK6qo1cm/"
+                    ]
+                  ]
+                ],
+                [
+                  "\n  • "
+                ],
+                [
+                  "https://www.instagram.com/reel/De5hz9yppGw/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reel/De5hz9yppGw/"
+                    ]
+                  ]
+                ]
+              ],
+              "LR:i": [
+                [
+                  "https://www.instagram.com/reels/DePC6PUNSlP/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reels/DePC6PUNSlP/"
+                    ]
+                  ]
+                ]
+              ],
+              "UPBc": [
+                [
+                  "‣",
+                  [
+                    [
+                      "d",
+                      {
+                        "type": "date",
+                        "start_date": "2026-11-16"
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              "`RXF": [
+                [
+                  "Reel"
+                ]
+              ],
+              "c~M:": [
+                [
+                  "Feel"
+                ]
+              ],
+              "hJCm": [
+                [
+                  "Universal"
+                ]
+              ],
+              "jIbF": [
+                [
+                  "This is a recent trend where you share your title or role as the hook, then you share a long list of other roles (as a single word) that you have to play that support that title/role.  It’s relatable to your audience because they know the feeling of wearing a million hats to get the job done.  \n\nThe key is the use this audio: "
+                ],
+                [
+                  "https://www.instagram.com/reels/audio/1763989477421686/?e=8e11eed2-e425-4dc2-877e-3163fd5a41cc&g=5",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reels/audio/1763989477421686/?e=8e11eed2-e425-4dc2-877e-3163fd5a41cc&g=5"
+                    ]
+                  ]
+                ],
+                [
+                  " and then time the words on screen to the beat of the song.  "
+                ]
+              ],
+              "title": [
+                [
+                  "I’m a ___ [title/role], but I’m also a ___[list of other roles]"
+                ]
+              ]
+            },
+            "format": {
+              "social_media_image_preview_url": "attachment:99234686-2e48-40e4-a696-ab0b81a9ebb9:SocialMediaPreviewImage.png"
+            },
+            "created_time": 1794715936443,
+            "last_edited_time": 1794716342179,
+            "parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "parent_table": "collection",
+            "alive": true,
+            "file_ids": [
+              "cac1163d-62c6-44e3-a867-1b23e390c775",
+              "99234686-2e48-40e4-a696-ab0b81a9ebb9"
+            ],
+            "created_by_table": "notion_user",
+            "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+            "crdt_format_version": 1,
+            "nav_parent_table": "collection",
+            "nav_parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "crdt_data": {
+              "title": {
+                "r": "-ZQc4cC2D_3QRlXHnDKD8g,\"start\",\"end\"",
+                "n": {
+                  "-ZQc4cC2D_3QRlXHnDKD8g,\"start\",\"end\"": {
+                    "s": {
+                      "x": "-ZQc4cC2D_3QRlXHnDKD8g",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 1,
+                          "c": "I"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            3
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            1
+                          ],
+                          "l": 10,
+                          "c": "’m a ___ ["
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            22
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            12
+                          ],
+                          "l": 5,
+                          "c": "title"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            32
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            26
+                          ],
+                          "l": 13,
+                          "c": "/role], but I"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            46
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            44
+                          ],
+                          "l": 34,
+                          "c": "’m also a ___[list of other roles]"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            45
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            44
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            27
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            26
+                          ],
+                          "l": -5
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            13
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            12
+                          ],
+                          "l": -9
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            2
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            1
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "41972a07-7ac7-8067-b061-ea9af3ef1de4": {
+        "spaceId": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+        "value": {
+          "value": {
+            "id": "41972a07-7ac7-8067-b061-ea9af3ef1de4",
+            "version": 1145,
+            "type": "page",
+            "properties": {
+              "BcI_": [
+                [
+                  "Other examples: \n  • "
+                ],
+                [
+                  "https://www.instagram.com/reels/DerslZgsejm/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reels/DerslZgsejm/"
+                    ]
+                  ]
+                ],
+                [
+                  "\n  • "
+                ],
+                [
+                  "https://www.instagram.com/reel/Derji67qs9M/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reel/Derji67qs9M/"
+                    ]
+                  ]
+                ],
+                [
+                  " \n  • "
+                ],
+                [
+                  "https://www.instagram.com/reel/DesIZQiPUip/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reel/DesIZQiPUip/"
+                    ]
+                  ]
+                ],
+                [
+                  "\n  • "
+                ],
+                [
+                  "https://www.instagram.com/reel/DfXqZLIRPQM/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reel/DfXqZLIRPQM/"
+                    ]
+                  ]
+                ]
+              ],
+              "LR:i": [
+                [
+                  "https://www.instagram.com/reels/DdUDZVfNmUl/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reels/DdUDZVfNmUl/"
+                    ]
+                  ]
+                ]
+              ],
+              "UPBc": [
+                [
+                  "‣",
+                  [
+                    [
+                      "d",
+                      {
+                        "type": "date",
+                        "start_date": "2026-11-16"
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              "`RXF": [
+                [
+                  "Reel"
+                ]
+              ],
+              "c~M:": [
+                [
+                  "Feel"
+                ]
+              ],
+              "hJCm": [
+                [
+                  "Creatives"
+                ]
+              ],
+              "jIbF": [
+                [
+                  "This is a showcase of you and your craft, whether that is: painting, ceramics, music, design, drawing, jewelry, crafting, interior decorating, makeup, hair, styling, fashion, photography, baking, etc. Start with a clip of you, then add clips of you creating or with your work.  Keep your clips short, like 2-4 seconds long.  Use this trending audio (if you want to follow this exact trend): "
+                ],
+                [
+                  "https://www.instagram.com/reels/audio/27382612204667395/?e=e0a74961-e872-4469-9773-45678ec266a0&g=5",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reels/audio/27382612204667395/?e=e0a74961-e872-4469-9773-45678ec266a0&g=5"
+                    ]
+                  ]
+                ],
+                [
+                  "\n\n"
+                ]
+              ],
+              "title": [
+                [
+                  "Who am I without ____"
+                ]
+              ]
+            },
+            "format": {
+              "social_media_image_preview_url": "attachment:b098cff5-66e8-4ffb-94f0-f23357230704:SocialMediaPreviewImage.png"
+            },
+            "created_time": 1794715538533,
+            "last_edited_time": 1794715876261,
+            "parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "parent_table": "collection",
+            "alive": true,
+            "file_ids": [
+              "b098cff5-66e8-4ffb-94f0-f23357230704"
+            ],
+            "created_by_table": "notion_user",
+            "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+            "crdt_format_version": 1,
+            "nav_parent_table": "collection",
+            "nav_parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "crdt_data": {
+              "title": {
+                "r": "1OYQH9l0ns-ZbJv1d6vhrA,\"start\",\"end\"",
+                "n": {
+                  "1OYQH9l0ns-ZbJv1d6vhrA,\"start\",\"end\"": {
+                    "s": {
+                      "x": "1OYQH9l0ns-ZbJv1d6vhrA",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 9,
+                          "c": "Who am I "
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            12
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            9
+                          ],
+                          "l": 3,
+                          "c": "wit"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            21
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            14
+                          ],
+                          "l": 9,
+                          "c": "hout ____"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            17
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            14
+                          ],
+                          "l": -4
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            15
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            14
+                          ],
+                          "l": -2
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            10
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            9
+                          ],
+                          "l": -2
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "41972a07-7ac7-80e8-8de7-ee6ad4252b70": {
+        "spaceId": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+        "value": {
+          "value": {
+            "id": "41972a07-7ac7-80e8-8de7-ee6ad4252b70",
+            "version": 1750,
+            "type": "page",
+            "properties": {
+              "BcI_": [
+                [
+                  "Here is another example: "
+                ],
+                [
+                  "https://www.instagram.com/reels/DckEW9NNVsJ/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reels/DckEW9NNVsJ/"
+                    ]
+                  ]
+                ],
+                [
+                  " "
+                ]
+              ],
+              "LR:i": [
+                [
+                  "https://www.instagram.com/reels/DckEW9NNVsJ/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reels/DckEW9NNVsJ/"
+                    ]
+                  ]
+                ]
+              ],
+              "UPBc": [
+                [
+                  "‣",
+                  [
+                    [
+                      "d",
+                      {
+                        "type": "date",
+                        "start_date": "2026-11-16"
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              "`RXF": [
+                [
+                  "Reel"
+                ]
+              ],
+              "c~M:": [
+                [
+                  "Feel"
+                ]
+              ],
+              "hJCm": [
+                [
+                  "Service-Providers"
+                ]
+              ],
+              "jIbF": [
+                [
+                  "This one is really good for service-providers, and its as direct as it gets in a reel.  You are telling your audience what services you offer right in the text on screen, and its done in a cheeky way, so it’s charming. Notice how there are three separate lines of text: \n\nSome people call me ___ [name]\nSome/other people call me ___ [second name/role]\nbut you can call me when ____ [you want whatever service it is that I provide]"
+                ]
+              ],
+              "title": [
+                [
+                  "Some people call me ___ but you can call me when you want ___ [my services]"
+                ]
+              ]
+            },
+            "format": {
+              "social_media_image_preview_url": "attachment:c7576dd7-5aa2-49ba-a6a8-7580f138f887:SocialMediaPreviewImage.png"
+            },
+            "created_time": 1794715114555,
+            "last_edited_time": 1794715496034,
+            "parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "parent_table": "collection",
+            "alive": true,
+            "file_ids": [
+              "92adc12e-3717-4da0-8f17-df1d8c5331f2",
+              "2871b4b6-4345-458f-9a9a-635d3f8ee18f",
+              "c7576dd7-5aa2-49ba-a6a8-7580f138f887"
+            ],
+            "created_by_table": "notion_user",
+            "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+            "crdt_format_version": 1,
+            "nav_parent_table": "collection",
+            "nav_parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "crdt_data": {
+              "title": {
+                "r": "oZywLSYV9FoMD7osdxxfag,\"start\",\"end\"",
+                "n": {
+                  "oZywLSYV9FoMD7osdxxfag,\"start\",\"end\"": {
+                    "s": {
+                      "x": "oZywLSYV9FoMD7osdxxfag",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 75,
+                          "c": "Some people call me ___ but you can call me when you want ___ [my services]"
                         },
                         {
                           "t": "e"
@@ -65889,6 +66792,7 @@
     "31372a07-7ac7-81a2-a762-000b87e52b41"
   ],
   "allBlockIds": [
+    "41972a07-7ac7-80b3-bdea-f87047e884c7",
     "3da72a07-7ac7-806a-b6ed-c89562341003",
     "37272a07-7ac7-80f2-be5e-c17aa838e964",
     "37272a07-7ac7-80fe-947b-cc5b592c812e",
@@ -66060,6 +66964,8 @@
     "31372a07-7ac7-8153-9c5d-c17eee17338d",
     "31372a07-7ac7-81f9-9674-f878ecbc3ff4",
     "31372a07-7ac7-81ff-91fd-c9cbd1e7e1fd",
+    "41972a07-7ac7-80c9-b2f0-c0d410a44772",
+    "41972a07-7ac7-80a5-9220-f6b322ae817a",
     "41272a07-7ac7-80f9-bcb1-db3c12a9d919",
     "41272a07-7ac7-80af-8bf1-f6ec1e5b9557",
     "41272a07-7ac7-801e-bd2b-d64ecdaca850",
@@ -66177,6 +67083,7 @@
     "37972a07-7ac7-807d-a515-fced0d772c25",
     "37872a07-7ac7-80fb-90fb-dc5107c656d1",
     "37872a07-7ac7-8066-9ddd-e1aa56143488",
+    "41972a07-7ac7-8067-b061-ea9af3ef1de4",
     "41272a07-7ac7-8027-a948-ef199ef31e21",
     "41272a07-7ac7-8048-9697-e2357d9351a3",
     "3fd72a07-7ac7-8020-909d-e91ae7557a5b",
@@ -66220,6 +67127,7 @@
     "37f72a07-7ac7-8044-b884-effafc371eca",
     "37972a07-7ac7-806e-b2d1-ca4e9a654bb6",
     "37972a07-7ac7-80a2-be38-ca4bd8534c76",
+    "41972a07-7ac7-80e8-8de7-ee6ad4252b70",
     "41272a07-7ac7-80bd-a5ff-d8b525cdc864",
     "40472a07-7ac7-8002-8e29-c093c112a4cc",
     "3fd72a07-7ac7-8048-9eb5-e0ea47a1f2c2",
@@ -66269,5 +67177,5 @@
       "collectionQuerier"
     ]
   },
-  "lastUpdatedAtMs": 1794341835505
+  "lastUpdatedAtMs": 1794717271730
 }

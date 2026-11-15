@@ -44,6 +44,450 @@
     }
   },
   {
+    "id": "41972a07-7ac7-80b3-bdea-f87047e884c7",
+    "source_url": "https://workable-fedora-9e0.notion.site/41972a077ac780b3bdeaf87047e884c7",
+    "in_current_query": true,
+    "Niche Adaptation Examples": "",
+    "Example on IG": "",
+    "Week": "",
+    "Type of Content": "",
+    "Content Pillar": "",
+    "Best For": "",
+    "Notes": "",
+    "Content Prompt": "",
+    "body": "",
+    "created_time": 1794716376848,
+    "last_edited_time": 1794716376861,
+    "properties_raw": {}
+  },
+  {
+    "id": "41972a07-7ac7-80c9-b2f0-c0d410a44772",
+    "source_url": "https://workable-fedora-9e0.notion.site/41972a077ac780c9b2f0c0d410a44772",
+    "in_current_query": true,
+    "Niche Adaptation Examples": "Dear Instagram, connect me with all the silver foxes who: lift heavy, meal prep on Sundays, and know that their health is their most important asset\n\nDear Instagram, connect me with moms who: are building businesses during nap time, answer DMs with a toddler on their hip, and refuse to choose between motherhood and ambition\n\nDear Instagram, connect me with all the girlies who: are crushing it in corporate, secretly have a side hustle, and are planning their exit strategy during their lunches",
+    "Example on IG": "https://www.instagram.com/reels/DfTUcrANsCl/",
+    "Week": "2026-11-16",
+    "Type of Content": "Reel",
+    "Content Pillar": "Feel",
+    "Best For": "Universal",
+    "Notes": "This is “Welcome Home” content, or top-of-funnel content, where you are putting on screen the exact target audience you want to attract.  The key is to describe your target audience as they would describe themselves. \n\nThis reel has the added visual interest of the text zoom effect.  You can achieve this by using keyframes in the IG Edits app and lining those keyframes up with when you zoom in with your fingers.  If you want to use this effect, this is the perfect audio to pair with it: https://www.instagram.com/reels/audio/35471216759159857/?e=55d35b63-2c96-4b32-ad9f-144ceafa8038&g=5",
+    "Content Prompt": "Dear Instagram, connect me with ___[target audience] who: are ___[list of attributes and/or goals]",
+    "body": "",
+    "created_time": 1794716376872,
+    "last_edited_time": 1794717271013,
+    "properties_raw": {
+      "BcI_": [
+        [
+          "Dear Instagram, connect me with all the silver foxes who: lift heavy, meal prep on Sundays, and know that their health is their most important asset\n\nDear Instagram, connect me with moms who: are building businesses during nap time, answer DMs with a toddler on their hip, and refuse to choose between motherhood and ambition\n\nDear Instagram, connect me with all the girlies who: are crushing it in corporate, secretly have a side hustle, and are planning their exit strategy during their lunches"
+        ]
+      ],
+      "LR:i": [
+        [
+          "https://www.instagram.com/reels/DfTUcrANsCl/",
+          [
+            [
+              "a",
+              "https://www.instagram.com/reels/DfTUcrANsCl/"
+            ]
+          ]
+        ]
+      ],
+      "UPBc": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "date",
+                "start_date": "2026-11-16"
+              }
+            ]
+          ]
+        ]
+      ],
+      "`RXF": [
+        [
+          "Reel"
+        ]
+      ],
+      "c~M:": [
+        [
+          "Feel"
+        ]
+      ],
+      "hJCm": [
+        [
+          "Universal"
+        ]
+      ],
+      "jIbF": [
+        [
+          "This is “Welcome Home” content, or top-of-funnel content, where you are putting on screen the exact target audience you want to attract.  The key is to describe your target audience as they would describe themselves. \n\nThis reel has the added visual interest of the text zoom effect.  You can achieve this by using keyframes in the IG Edits app and lining those keyframes up with when you zoom in with your fingers.  If you want to use this effect, this is the perfect audio to pair with it: "
+        ],
+        [
+          "https://www.instagram.com/reels/audio/35471216759159857/?e=55d35b63-2c96-4b32-ad9f-144ceafa8038&g=5",
+          [
+            [
+              "a",
+              "https://www.instagram.com/reels/audio/35471216759159857/?e=55d35b63-2c96-4b32-ad9f-144ceafa8038&g=5"
+            ]
+          ]
+        ]
+      ],
+      "title": [
+        [
+          "Dear Instagram, connect me with ___[target audience] who: are ___[list of attributes and/or goals]"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "41972a07-7ac7-80a5-9220-f6b322ae817a",
+    "source_url": "https://workable-fedora-9e0.notion.site/41972a077ac780a59220f6b322ae817a",
+    "in_current_query": true,
+    "Niche Adaptation Examples": "Other examples: \n  •  https://www.instagram.com/reels/DeyJWBOui42/ \n  • https://www.instagram.com/reel/Der4BMRpUCH/ \n  • https://www.instagram.com/reel/DevtK6qo1cm/\n  • https://www.instagram.com/reel/De5hz9yppGw/",
+    "Example on IG": "https://www.instagram.com/reels/DePC6PUNSlP/",
+    "Week": "2026-11-16",
+    "Type of Content": "Reel",
+    "Content Pillar": "Feel",
+    "Best For": "Universal",
+    "Notes": "This is a recent trend where you share your title or role as the hook, then you share a long list of other roles (as a single word) that you have to play that support that title/role.  It’s relatable to your audience because they know the feeling of wearing a million hats to get the job done.  \n\nThe key is the use this audio: https://www.instagram.com/reels/audio/1763989477421686/?e=8e11eed2-e425-4dc2-877e-3163fd5a41cc&g=5 and then time the words on screen to the beat of the song.  ",
+    "Content Prompt": "I’m a ___ [title/role], but I’m also a ___[list of other roles]",
+    "body": "",
+    "created_time": 1794715936443,
+    "last_edited_time": 1794716342179,
+    "properties_raw": {
+      "BcI_": [
+        [
+          "Other examples: \n  •  "
+        ],
+        [
+          "https://www.instagram.com/reels/DeyJWBOui42/",
+          [
+            [
+              "a",
+              "https://www.instagram.com/reels/DeyJWBOui42/"
+            ]
+          ]
+        ],
+        [
+          " \n  • "
+        ],
+        [
+          "https://www.instagram.com/reel/Der4BMRpUCH/",
+          [
+            [
+              "a",
+              "https://www.instagram.com/reel/Der4BMRpUCH/"
+            ]
+          ]
+        ],
+        [
+          " \n  • "
+        ],
+        [
+          "https://www.instagram.com/reel/DevtK6qo1cm/",
+          [
+            [
+              "a",
+              "https://www.instagram.com/reel/DevtK6qo1cm/"
+            ]
+          ]
+        ],
+        [
+          "\n  • "
+        ],
+        [
+          "https://www.instagram.com/reel/De5hz9yppGw/",
+          [
+            [
+              "a",
+              "https://www.instagram.com/reel/De5hz9yppGw/"
+            ]
+          ]
+        ]
+      ],
+      "LR:i": [
+        [
+          "https://www.instagram.com/reels/DePC6PUNSlP/",
+          [
+            [
+              "a",
+              "https://www.instagram.com/reels/DePC6PUNSlP/"
+            ]
+          ]
+        ]
+      ],
+      "UPBc": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "date",
+                "start_date": "2026-11-16"
+              }
+            ]
+          ]
+        ]
+      ],
+      "`RXF": [
+        [
+          "Reel"
+        ]
+      ],
+      "c~M:": [
+        [
+          "Feel"
+        ]
+      ],
+      "hJCm": [
+        [
+          "Universal"
+        ]
+      ],
+      "jIbF": [
+        [
+          "This is a recent trend where you share your title or role as the hook, then you share a long list of other roles (as a single word) that you have to play that support that title/role.  It’s relatable to your audience because they know the feeling of wearing a million hats to get the job done.  \n\nThe key is the use this audio: "
+        ],
+        [
+          "https://www.instagram.com/reels/audio/1763989477421686/?e=8e11eed2-e425-4dc2-877e-3163fd5a41cc&g=5",
+          [
+            [
+              "a",
+              "https://www.instagram.com/reels/audio/1763989477421686/?e=8e11eed2-e425-4dc2-877e-3163fd5a41cc&g=5"
+            ]
+          ]
+        ],
+        [
+          " and then time the words on screen to the beat of the song.  "
+        ]
+      ],
+      "title": [
+        [
+          "I’m a ___ [title/role], but I’m also a ___[list of other roles]"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "41972a07-7ac7-8067-b061-ea9af3ef1de4",
+    "source_url": "https://workable-fedora-9e0.notion.site/41972a077ac78067b061ea9af3ef1de4",
+    "in_current_query": true,
+    "Niche Adaptation Examples": "Other examples: \n  • https://www.instagram.com/reels/DerslZgsejm/\n  • https://www.instagram.com/reel/Derji67qs9M/ \n  • https://www.instagram.com/reel/DesIZQiPUip/\n  • https://www.instagram.com/reel/DfXqZLIRPQM/",
+    "Example on IG": "https://www.instagram.com/reels/DdUDZVfNmUl/",
+    "Week": "2026-11-16",
+    "Type of Content": "Reel",
+    "Content Pillar": "Feel",
+    "Best For": "Creatives",
+    "Notes": "This is a showcase of you and your craft, whether that is: painting, ceramics, music, design, drawing, jewelry, crafting, interior decorating, makeup, hair, styling, fashion, photography, baking, etc. Start with a clip of you, then add clips of you creating or with your work.  Keep your clips short, like 2-4 seconds long.  Use this trending audio (if you want to follow this exact trend): https://www.instagram.com/reels/audio/27382612204667395/?e=e0a74961-e872-4469-9773-45678ec266a0&g=5\n\n",
+    "Content Prompt": "Who am I without ____",
+    "body": "",
+    "created_time": 1794715538533,
+    "last_edited_time": 1794715876261,
+    "properties_raw": {
+      "BcI_": [
+        [
+          "Other examples: \n  • "
+        ],
+        [
+          "https://www.instagram.com/reels/DerslZgsejm/",
+          [
+            [
+              "a",
+              "https://www.instagram.com/reels/DerslZgsejm/"
+            ]
+          ]
+        ],
+        [
+          "\n  • "
+        ],
+        [
+          "https://www.instagram.com/reel/Derji67qs9M/",
+          [
+            [
+              "a",
+              "https://www.instagram.com/reel/Derji67qs9M/"
+            ]
+          ]
+        ],
+        [
+          " \n  • "
+        ],
+        [
+          "https://www.instagram.com/reel/DesIZQiPUip/",
+          [
+            [
+              "a",
+              "https://www.instagram.com/reel/DesIZQiPUip/"
+            ]
+          ]
+        ],
+        [
+          "\n  • "
+        ],
+        [
+          "https://www.instagram.com/reel/DfXqZLIRPQM/",
+          [
+            [
+              "a",
+              "https://www.instagram.com/reel/DfXqZLIRPQM/"
+            ]
+          ]
+        ]
+      ],
+      "LR:i": [
+        [
+          "https://www.instagram.com/reels/DdUDZVfNmUl/",
+          [
+            [
+              "a",
+              "https://www.instagram.com/reels/DdUDZVfNmUl/"
+            ]
+          ]
+        ]
+      ],
+      "UPBc": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "date",
+                "start_date": "2026-11-16"
+              }
+            ]
+          ]
+        ]
+      ],
+      "`RXF": [
+        [
+          "Reel"
+        ]
+      ],
+      "c~M:": [
+        [
+          "Feel"
+        ]
+      ],
+      "hJCm": [
+        [
+          "Creatives"
+        ]
+      ],
+      "jIbF": [
+        [
+          "This is a showcase of you and your craft, whether that is: painting, ceramics, music, design, drawing, jewelry, crafting, interior decorating, makeup, hair, styling, fashion, photography, baking, etc. Start with a clip of you, then add clips of you creating or with your work.  Keep your clips short, like 2-4 seconds long.  Use this trending audio (if you want to follow this exact trend): "
+        ],
+        [
+          "https://www.instagram.com/reels/audio/27382612204667395/?e=e0a74961-e872-4469-9773-45678ec266a0&g=5",
+          [
+            [
+              "a",
+              "https://www.instagram.com/reels/audio/27382612204667395/?e=e0a74961-e872-4469-9773-45678ec266a0&g=5"
+            ]
+          ]
+        ],
+        [
+          "\n\n"
+        ]
+      ],
+      "title": [
+        [
+          "Who am I without ____"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "41972a07-7ac7-80e8-8de7-ee6ad4252b70",
+    "source_url": "https://workable-fedora-9e0.notion.site/41972a077ac780e88de7ee6ad4252b70",
+    "in_current_query": true,
+    "Niche Adaptation Examples": "Here is another example: https://www.instagram.com/reels/DckEW9NNVsJ/ ",
+    "Example on IG": "https://www.instagram.com/reels/DckEW9NNVsJ/",
+    "Week": "2026-11-16",
+    "Type of Content": "Reel",
+    "Content Pillar": "Feel",
+    "Best For": "Service-Providers",
+    "Notes": "This one is really good for service-providers, and its as direct as it gets in a reel.  You are telling your audience what services you offer right in the text on screen, and its done in a cheeky way, so it’s charming. Notice how there are three separate lines of text: \n\nSome people call me ___ [name]\nSome/other people call me ___ [second name/role]\nbut you can call me when ____ [you want whatever service it is that I provide]",
+    "Content Prompt": "Some people call me ___ but you can call me when you want ___ [my services]",
+    "body": "",
+    "created_time": 1794715114555,
+    "last_edited_time": 1794715496034,
+    "properties_raw": {
+      "BcI_": [
+        [
+          "Here is another example: "
+        ],
+        [
+          "https://www.instagram.com/reels/DckEW9NNVsJ/",
+          [
+            [
+              "a",
+              "https://www.instagram.com/reels/DckEW9NNVsJ/"
+            ]
+          ]
+        ],
+        [
+          " "
+        ]
+      ],
+      "LR:i": [
+        [
+          "https://www.instagram.com/reels/DckEW9NNVsJ/",
+          [
+            [
+              "a",
+              "https://www.instagram.com/reels/DckEW9NNVsJ/"
+            ]
+          ]
+        ]
+      ],
+      "UPBc": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "date",
+                "start_date": "2026-11-16"
+              }
+            ]
+          ]
+        ]
+      ],
+      "`RXF": [
+        [
+          "Reel"
+        ]
+      ],
+      "c~M:": [
+        [
+          "Feel"
+        ]
+      ],
+      "hJCm": [
+        [
+          "Service-Providers"
+        ]
+      ],
+      "jIbF": [
+        [
+          "This one is really good for service-providers, and its as direct as it gets in a reel.  You are telling your audience what services you offer right in the text on screen, and its done in a cheeky way, so it’s charming. Notice how there are three separate lines of text: \n\nSome people call me ___ [name]\nSome/other people call me ___ [second name/role]\nbut you can call me when ____ [you want whatever service it is that I provide]"
+        ]
+      ],
+      "title": [
+        [
+          "Some people call me ___ but you can call me when you want ___ [my services]"
+        ]
+      ]
+    }
+  },
+  {
     "id": "41272a07-7ac7-80f9-bcb1-db3c12a9d919",
     "source_url": "https://workable-fedora-9e0.notion.site/41272a077ac780f9bcb1db3c12a9d919",
     "in_current_query": true,
