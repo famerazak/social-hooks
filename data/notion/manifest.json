@@ -2,10 +2,10 @@
   "title": "IG Growth Club - Content Prompts",
   "description": "Welcome to your master list of IG content ideas (for Reels and Carousels). Each prompt is organized by Content Pillar with real examples to inspire you and help you create content with strategy and purpose.",
   "source_url": "https://workable-fedora-9e0.notion.site/31372a077ac78186b6fcfb89ffa02db8?v=31372a077ac7810398bb000ca2522c4b",
-  "retrieved_at": "2026-11-15T14:43:52.057656+00:00",
-  "current_query_count": 370,
-  "saved_view_reference_count": 432,
-  "exported_count": 370,
+  "retrieved_at": "2026-11-16T16:58:33.983936+00:00",
+  "current_query_count": 374,
+  "saved_view_reference_count": 436,
+  "exported_count": 374,
   "entries_with_body": 5,
   "missing_content_blocks": [],
   "request_errors": {},
@@ -75,18 +75,17 @@
   ],
   "scope": "Public database properties and accessible descendant blocks. External Instagram content and binary attachments are not downloaded. Raw endpoint responses preserve rich text and metadata.",
   "files": {
-    "prompts.csv": "fed27326babd84f7e979a092a7e3affdc20a5178c67bd55194d35f1b00526d8b",
-    "prompts.sqlite3": "a213f41477350d2db20edeadb314e100172d5a48bccc0b8b743df0622294b54d",
-    "prompts.json": "3124680a080b9d6ac4da9e3545b9249971cef50fa913f50fab886904de2f9994",
+    "prompts.csv": "a982dc2cd8798635474e5639325c50bc28fb9f5eb3e71edfae5728e6958f0d23",
+    "prompts.sqlite3": "26ff26c0fe04159a6672104a03d42c953fa7ca72ddbbcb616fa5d6b647791815",
+    "prompts.json": "abef1aeca6a5116541c452d0143a55018725e34f941c6ed9fc4e8dee07d19565",
     "README.md": "e324810f0e29c37cce89fddf5e29cba2fe73154c08ae7cdc04de5d5d90630032"
   },
   "changes": {
     "added": [
-      "41972a07-7ac7-8067-b061-ea9af3ef1de4",
-      "41972a07-7ac7-80a5-9220-f6b322ae817a",
-      "41972a07-7ac7-80b3-bdea-f87047e884c7",
-      "41972a07-7ac7-80c9-b2f0-c0d410a44772",
-      "41972a07-7ac7-80e8-8de7-ee6ad4252b70"
+      "41972a07-7ac7-803a-a2a7-f1999bbb3eb2",
+      "41972a07-7ac7-8047-8236-c0db01d34530",
+      "41972a07-7ac7-80a2-8761-fdcf76c8acfd",
+      "41972a07-7ac7-80ae-b7d5-f168fa27fcbc"
     ],
     "removed": [],
     "updated": []

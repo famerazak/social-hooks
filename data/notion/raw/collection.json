@@ -7,6 +7,10 @@
         "blockIds": [
           "3da72a07-7ac7-806a-b6ed-c89562341003",
           "41972a07-7ac7-80b3-bdea-f87047e884c7",
+          "41972a07-7ac7-80a2-8761-fdcf76c8acfd",
+          "41972a07-7ac7-80ae-b7d5-f168fa27fcbc",
+          "41972a07-7ac7-803a-a2a7-f1999bbb3eb2",
+          "41972a07-7ac7-8047-8236-c0db01d34530",
           "41972a07-7ac7-80c9-b2f0-c0d410a44772",
           "41972a07-7ac7-80a5-9220-f6b322ae817a",
           "41972a07-7ac7-8067-b061-ea9af3ef1de4",
@@ -379,7 +383,7 @@
         "hasMore": false
       }
     },
-    "sizeHint": 370,
+    "sizeHint": 374,
     "rowCountStatus": "under"
   },
   "recordMap": {
@@ -561,6 +565,739 @@
                       "i": [
                         {
                           "t": "s"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "41972a07-7ac7-80a2-8761-fdcf76c8acfd": {
+        "spaceId": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+        "value": {
+          "value": {
+            "id": "41972a07-7ac7-80a2-8761-fdcf76c8acfd",
+            "version": 2852,
+            "type": "page",
+            "properties": {
+              "BcI_": [
+                [
+                  "Things I’m learning not to feel guilty about as a business owner (charging what I’m worth, not replying on weekends, raising my prices, etc.) \n\nThings I’m learning not to feel guilty about as a career-focused mom \n\nThings I’m learning not to rush as a working mom \n\nThings I’m quietly proud of on my fitness journey in midlife\n\nThings I’m learning to protect as a life coach in a period of change \n"
+                ]
+              ],
+              "LR:i": [
+                [
+                  "https://www.instagram.com/p/DfmVuZFgIWF/?img_index=1",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/p/DfmVuZFgIWF/?img_index=1"
+                    ]
+                  ]
+                ]
+              ],
+              "UPBc": [
+                [
+                  "‣",
+                  [
+                    [
+                      "d",
+                      {
+                        "type": "date",
+                        "start_date": "2026-11-16"
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              "`RXF": [
+                [
+                  "Carousel"
+                ]
+              ],
+              "c~M:": [
+                [
+                  "Shift"
+                ]
+              ],
+              "hJCm": [
+                [
+                  "Universal"
+                ]
+              ],
+              "jIbF": [
+                [
+                  "Oooh, I love the simplicity of this carousel!  One simple message per slide + minimal text on screen + two different font colors + simple, everyday images.   Part of the reason it performed so well is because it’s positioned like a confession that gives permission to her audience.  You can use it as a way to share your brand values and attract like-minded viewers.  Be creative with changing the hook so that it aligns with your niche and your messaging - see examples below"
+                ]
+              ],
+              "title": [
+                [
+                  "Things I’m learning not to feel ___ [emotion]"
+                ]
+              ]
+            },
+            "format": {
+              "social_media_image_preview_url": "attachment:a405c904-e2df-4c30-9d58-13bb3c9dd34a:SocialMediaPreviewImage.png"
+            },
+            "created_time": 1794773074273,
+            "last_edited_time": 1794773967821,
+            "parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "parent_table": "collection",
+            "alive": true,
+            "file_ids": [
+              "105d841e-a28c-4800-ac7c-0899bb3d155c",
+              "efcbfb1e-c07c-4242-9eb2-3606a2f9bc0f",
+              "616a1fc4-f47e-4930-b2c3-eb75d2e67b4e",
+              "b6118fc7-1432-46c8-ac47-18872b52306b",
+              "a405c904-e2df-4c30-9d58-13bb3c9dd34a"
+            ],
+            "created_by_table": "notion_user",
+            "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+            "crdt_format_version": 1,
+            "nav_parent_table": "collection",
+            "nav_parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "crdt_data": {
+              "title": {
+                "r": "imnMfJIQdKi1ozM-dGl95g,\"start\",\"end\"",
+                "n": {
+                  "imnMfJIQdKi1ozM-dGl95g,\"start\",\"end\"": {
+                    "s": {
+                      "x": "imnMfJIQdKi1ozM-dGl95g",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 8,
+                          "c": "Things I"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            10
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            8
+                          ],
+                          "l": 11,
+                          "c": "’m learning"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            44
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            20
+                          ],
+                          "l": 1,
+                          "c": " "
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            45
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            44
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            72
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            45
+                          ],
+                          "l": 1,
+                          "c": "n"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            104
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            72
+                          ],
+                          "l": 5,
+                          "c": "ot to"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            73
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            72
+                          ],
+                          "l": -5
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            79
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            77
+                          ],
+                          "l": -2
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            83
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            80
+                          ],
+                          "l": -2
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            85
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            84
+                          ],
+                          "l": 19,
+                          "c": " feel ___ [emotion]"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            81
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            80
+                          ],
+                          "l": -2
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            78
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            77
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            46
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            45
+                          ],
+                          "l": -26
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            21
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            20
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            43
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            21
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            22
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            21
+                          ],
+                          "l": -21
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            9
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            8
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "41972a07-7ac7-80ae-b7d5-f168fa27fcbc": {
+        "spaceId": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+        "value": {
+          "value": {
+            "id": "41972a07-7ac7-80ae-b7d5-f168fa27fcbc",
+            "version": 615,
+            "type": "page",
+            "properties": {
+              "BcI_": [
+                [
+                  "  • "
+                ],
+                [
+                  "https://www.instagram.com/p/DeQ47CpETGj/?img_index=1",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/p/DeQ47CpETGj/?img_index=1"
+                    ]
+                  ]
+                ],
+                [
+                  "\n  • "
+                ],
+                [
+                  "https://www.instagram.com/reels/DfNZR6iil4E/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reels/DfNZR6iil4E/"
+                    ]
+                  ]
+                ],
+                [
+                  "\n  • "
+                ],
+                [
+                  "https://www.instagram.com/reels/DeIGYrVBpXU/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reels/DeIGYrVBpXU/"
+                    ]
+                  ]
+                ],
+                [
+                  "\n  • "
+                ],
+                [
+                  "https://www.instagram.com/reels/DeE8htQor05/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reels/DeE8htQor05/"
+                    ]
+                  ]
+                ]
+              ],
+              "UPBc": [
+                [
+                  "‣",
+                  [
+                    [
+                      "d",
+                      {
+                        "type": "date",
+                        "start_date": "2026-11-16"
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              "`RXF": [
+                [
+                  "Reel,Carousel"
+                ]
+              ],
+              "c~M:": [
+                [
+                  "Feel"
+                ]
+              ],
+              "hJCm": [
+                [
+                  "Service-Providers"
+                ]
+              ],
+              "jIbF": [
+                [
+                  "Below is a collection of high-performing reels and carousel that I came across this week to help inspire for my stylist friends.  They are all pretty self-explanatory.  Enjoy! "
+                ]
+              ],
+              "title": [
+                [
+                  "Prompts for the stylists"
+                ]
+              ]
+            },
+            "format": {
+              "social_media_image_preview_url": "attachment:3a61920f-c6df-43e3-8d1b-c5fa6a39cd9d:SocialMediaPreviewImage.png"
+            },
+            "created_time": 1794772720005,
+            "last_edited_time": 1794773022054,
+            "parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "parent_table": "collection",
+            "alive": true,
+            "file_ids": [
+              "3a61920f-c6df-43e3-8d1b-c5fa6a39cd9d"
+            ],
+            "created_by_table": "notion_user",
+            "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+            "crdt_format_version": 1,
+            "nav_parent_table": "collection",
+            "nav_parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "crdt_data": {
+              "title": {
+                "r": "MqD5MA8DCstHosPKFBSJ1g,\"start\",\"end\"",
+                "n": {
+                  "MqD5MA8DCstHosPKFBSJ1g,\"start\",\"end\"": {
+                    "s": {
+                      "x": "MqD5MA8DCstHosPKFBSJ1g",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 24,
+                          "c": "Prompts for the stylists"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "41972a07-7ac7-803a-a2a7-f1999bbb3eb2": {
+        "spaceId": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+        "value": {
+          "value": {
+            "id": "41972a07-7ac7-803a-a2a7-f1999bbb3eb2",
+            "version": 1839,
+            "type": "page",
+            "properties": {
+              "BcI_": [
+                [
+                  "11 things to do to make your home feel less cluttered and more cozy before the end of 2026\n\n15 habits to start to become wildly strong before the end of 2026 \n\n13 things to do to become disgustingly confident by the end of 2026"
+                ]
+              ],
+              "LR:i": [
+                [
+                  "https://www.instagram.com/reels/DfXY44JIRdA/",
+                  [
+                    [
+                      "a",
+                      "https://www.instagram.com/reels/DfXY44JIRdA/"
+                    ]
+                  ]
+                ]
+              ],
+              "UPBc": [
+                [
+                  "‣",
+                  [
+                    [
+                      "d",
+                      {
+                        "type": "date",
+                        "start_date": "2026-11-16"
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              "`RXF": [
+                [
+                  "Reel"
+                ]
+              ],
+              "c~M:": [
+                [
+                  "Learn"
+                ]
+              ],
+              "hJCm": [
+                [
+                  "Universal"
+                ]
+              ],
+              "jIbF": [
+                [
+                  "This is a talking-head, listicle reel, but could be equally effective as a B-roll reel or a carousel.  Use it to share niche-related things that could help your audience achieve their goals, or make progress toward them by year end.  Notice how she has a notepad that she is referencing to share her list,  this is perfectly fine to do. "
+                ]
+              ],
+              "title": [
+                [
+                  "# of things to do before the end of 2026"
+                ]
+              ]
+            },
+            "format": {
+              "social_media_image_preview_url": "attachment:2391ffaf-2776-4d68-89be-9a9e6763608b:SocialMediaPreviewImage.png"
+            },
+            "created_time": 1794772179269,
+            "last_edited_time": 1794772636711,
+            "parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "parent_table": "collection",
+            "alive": true,
+            "file_ids": [
+              "2391ffaf-2776-4d68-89be-9a9e6763608b"
+            ],
+            "created_by_table": "notion_user",
+            "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+            "crdt_format_version": 1,
+            "nav_parent_table": "collection",
+            "nav_parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "crdt_data": {
+              "title": {
+                "r": "oiA-fEJcnZgyKxcaaIAJ8A,\"start\",\"end\"",
+                "n": {
+                  "oiA-fEJcnZgyKxcaaIAJ8A,\"start\",\"end\"": {
+                    "s": {
+                      "x": "oiA-fEJcnZgyKxcaaIAJ8A",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 40,
+                          "c": "# of things to do before the end of 2026"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "41972a07-7ac7-8047-8236-c0db01d34530": {
+        "spaceId": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+        "value": {
+          "value": {
+            "id": "41972a07-7ac7-8047-8236-c0db01d34530",
+            "version": 2531,
+            "type": "page",
+            "properties": {
+              "BcI_": [
+                [
+                  "4 boring ways to earn more money (from someone on track to retire at 40)\n\n5 boring habits that make me feel 25 again (from a mom of 3 in her mid 40’s)\n\n6 boring ways I save money as a solo homeowner at 31"
+                ]
+              ],
+              "LR:i": [
+                [
+                  "ps://www.instagram.com/p/DfAuLNmE6ut/",
+                  [
+                    [
+                      "a",
+                      "http://www.instagram.com/p/DfAuLNmE6ut/"
+                    ]
+                  ]
+                ]
+              ],
+              "UPBc": [
+                [
+                  "‣",
+                  [
+                    [
+                      "d",
+                      {
+                        "type": "date",
+                        "start_date": "2026-11-16"
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              "`RXF": [
+                [
+                  "Carousel"
+                ]
+              ],
+              "c~M:": [
+                [
+                  "Learn"
+                ]
+              ],
+              "hJCm": [
+                [
+                  "Universal"
+                ]
+              ],
+              "jIbF": [
+                [
+                  "This is a listicle and could be a carouse or a reel.  The word “boring” is used here as a pattern interrupt.  It’s language that isn’t common or expected in a hook, and it makes the content feel honest and anti-hype.  Notice how in the original carousel she has a headline for each slide that is bolder and then the supporting paragraph text.  This makes for a very easy read. As always, get specific with your hook - see below fr examples of specificity.  "
+                ]
+              ],
+              "title": [
+                [
+                  "Boring ways I ___ [accomplish goal] "
+                ]
+              ]
+            },
+            "format": {
+              "social_media_image_preview_url": "attachment:64662893-3102-45c3-975b-c805b74b99de:SocialMediaPreviewImage.png"
+            },
+            "created_time": 1794771346052,
+            "last_edited_time": 1794772115941,
+            "parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "parent_table": "collection",
+            "alive": true,
+            "file_ids": [
+              "7305328d-7214-4ec1-991f-e89dc7f40fa3",
+              "64662893-3102-45c3-975b-c805b74b99de"
+            ],
+            "created_by_table": "notion_user",
+            "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
+            "crdt_format_version": 1,
+            "nav_parent_table": "collection",
+            "nav_parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
+            "crdt_data": {
+              "title": {
+                "r": "-g8fYJAgNeEdgxTBSlt3HA,\"start\",\"end\"",
+                "n": {
+                  "-g8fYJAgNeEdgxTBSlt3HA,\"start\",\"end\"": {
+                    "s": {
+                      "x": "-g8fYJAgNeEdgxTBSlt3HA",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            3
+                          ],
+                          "o": "start",
+                          "l": 36,
+                          "c": "Boring ways I ___ [accomplish goal] "
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            39
+                          ],
+                          "o": [
+                            "JNFeR37_WWLS",
+                            38
+                          ],
+                          "l": -20
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "JNFeR37_WWLS",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -2
                         },
                         {
                           "t": "e"
@@ -66964,6 +67701,9 @@
     "31372a07-7ac7-8153-9c5d-c17eee17338d",
     "31372a07-7ac7-81f9-9674-f878ecbc3ff4",
     "31372a07-7ac7-81ff-91fd-c9cbd1e7e1fd",
+    "41972a07-7ac7-80a2-8761-fdcf76c8acfd",
+    "41972a07-7ac7-803a-a2a7-f1999bbb3eb2",
+    "41972a07-7ac7-8047-8236-c0db01d34530",
     "41972a07-7ac7-80c9-b2f0-c0d410a44772",
     "41972a07-7ac7-80a5-9220-f6b322ae817a",
     "41272a07-7ac7-80f9-bcb1-db3c12a9d919",
@@ -67127,6 +67867,7 @@
     "37f72a07-7ac7-8044-b884-effafc371eca",
     "37972a07-7ac7-806e-b2d1-ca4e9a654bb6",
     "37972a07-7ac7-80a2-be38-ca4bd8534c76",
+    "41972a07-7ac7-80ae-b7d5-f168fa27fcbc",
     "41972a07-7ac7-80e8-8de7-ee6ad4252b70",
     "41272a07-7ac7-80bd-a5ff-d8b525cdc864",
     "40472a07-7ac7-8002-8e29-c093c112a4cc",
@@ -67177,5 +67918,5 @@
       "collectionQuerier"
     ]
   },
-  "lastUpdatedAtMs": 1794717271730
+  "lastUpdatedAtMs": 1794773968174
 }
