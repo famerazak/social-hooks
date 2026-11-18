@@ -2,10 +2,10 @@
   "title": "IG Growth Club - Content Prompts",
   "description": "Welcome to your master list of IG content ideas (for Reels and Carousels). Each prompt is organized by Content Pillar with real examples to inspire you and help you create content with strategy and purpose.",
   "source_url": "https://workable-fedora-9e0.notion.site/31372a077ac78186b6fcfb89ffa02db8?v=31372a077ac7810398bb000ca2522c4b",
-  "retrieved_at": "2026-11-16T16:58:33.983936+00:00",
-  "current_query_count": 374,
+  "retrieved_at": "2026-11-18T16:25:33.161741+00:00",
+  "current_query_count": 372,
   "saved_view_reference_count": 436,
-  "exported_count": 374,
+  "exported_count": 372,
   "entries_with_body": 5,
   "missing_content_blocks": [],
   "request_errors": {},
@@ -40,12 +40,14 @@
     "3d372a07-7ac7-806f-a54c-e199f7034292",
     "3da72a07-7ac7-8065-a35f-f36655af5e1b",
     "3da72a07-7ac7-8007-b2e4-f823b31342ba",
+    "3da72a07-7ac7-806a-b6ed-c89562341003",
     "40b72a07-7ac7-803a-9a46-d03c9de1ee09",
     "40b72a07-7ac7-80e9-b69f-cfc0a022f2c2",
     "41272a07-7ac7-801b-a2b6-d3227d7befcc",
     "41272a07-7ac7-8040-9f41-cc0f2288076d",
     "41272a07-7ac7-8054-b7a9-fb6c49d04e97",
     "41272a07-7ac7-801d-980d-f864741efee4",
+    "41972a07-7ac7-80b3-bdea-f87047e884c7",
     "3bc72a07-7ac7-805e-b97e-cff5bd34b7bb",
     "3b772a07-7ac7-806a-a609-d2e703d240b4",
     "39b72a07-7ac7-805d-a7c2-c056ec8e60b7",
@@ -75,22 +77,18 @@
   ],
   "scope": "Public database properties and accessible descendant blocks. External Instagram content and binary attachments are not downloaded. Raw endpoint responses preserve rich text and metadata.",
   "files": {
-    "prompts.csv": "a982dc2cd8798635474e5639325c50bc28fb9f5eb3e71edfae5728e6958f0d23",
-    "prompts.sqlite3": "26ff26c0fe04159a6672104a03d42c953fa7ca72ddbbcb616fa5d6b647791815",
-    "prompts.json": "abef1aeca6a5116541c452d0143a55018725e34f941c6ed9fc4e8dee07d19565",
+    "prompts.csv": "5fe48fea9c0c3e81ca6ee6bbabf2eecf067663ef049716c2980ac55b80746a5e",
+    "prompts.sqlite3": "8615ed56a9c3a73719e19a99bf36f987db19ca91d7baddebf396d0e1397abbcb",
+    "prompts.json": "2e0c951afe51dfb9ff271df2c2feff8eb7b8ff50a7777c278a268322a056c5be",
     "README.md": "e324810f0e29c37cce89fddf5e29cba2fe73154c08ae7cdc04de5d5d90630032"
   },
   "changes": {
-    "added": [
-      "41972a07-7ac7-803a-a2a7-f1999bbb3eb2",
-      "41972a07-7ac7-8047-8236-c0db01d34530",
-      "41972a07-7ac7-80a2-8761-fdcf76c8acfd",
-      "41972a07-7ac7-80ae-b7d5-f168fa27fcbc"
+    "added": [],
+    "removed": [
+      "3da72a07-7ac7-806a-b6ed-c89562341003",
+      "41972a07-7ac7-80b3-bdea-f87047e884c7"
     ],
-    "removed": [],
     "updated": []
   },
-  "untitled_record_ids": [
-    "41972a07-7ac7-80b3-bdea-f87047e884c7"
-  ]
+  "untitled_record_ids": []
 }

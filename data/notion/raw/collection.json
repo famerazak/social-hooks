@@ -5,8 +5,6 @@
       "collection_group_results": {
         "type": "results",
         "blockIds": [
-          "3da72a07-7ac7-806a-b6ed-c89562341003",
-          "41972a07-7ac7-80b3-bdea-f87047e884c7",
           "41972a07-7ac7-80a2-8761-fdcf76c8acfd",
           "41972a07-7ac7-80ae-b7d5-f168fa27fcbc",
           "41972a07-7ac7-803a-a2a7-f1999bbb3eb2",
@@ -383,204 +381,12 @@
         "hasMore": false
       }
     },
-    "sizeHint": 374,
+    "sizeHint": 372,
     "rowCountStatus": "under"
   },
   "recordMap": {
     "__version__": 3,
     "block": {
-      "3da72a07-7ac7-806a-b6ed-c89562341003": {
-        "spaceId": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
-        "value": {
-          "value": {
-            "id": "3da72a07-7ac7-806a-b6ed-c89562341003",
-            "version": 282,
-            "type": "page",
-            "properties": {
-              "LR:i": [
-                [
-                  "https://www.instagram.com/reels/DbX-4spI6Vg/",
-                  [
-                    [
-                      "a",
-                      "https://www.instagram.com/reels/DbX-4spI6Vg/"
-                    ]
-                  ]
-                ]
-              ],
-              "`RXF": [
-                [
-                  "Reel"
-                ]
-              ],
-              "c~M:": [
-                [
-                  "Feel"
-                ]
-              ],
-              "title": [
-                [
-                  "Congratulations! You scrolled far enough to find a ___ who ____, and wants to inspire others to ___"
-                ]
-              ]
-            },
-            "format": {
-              "social_media_image_preview_url": "attachment:25d745bd-7282-4dc0-acb5-8b3d537472e1:SocialMediaPreviewImage.png"
-            },
-            "created_time": 1789322044217,
-            "last_edited_time": 1789322092566,
-            "parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
-            "parent_table": "collection",
-            "alive": true,
-            "file_ids": [
-              "25d745bd-7282-4dc0-acb5-8b3d537472e1"
-            ],
-            "created_by_table": "notion_user",
-            "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
-            "last_edited_by_table": "notion_user",
-            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
-            "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
-            "crdt_format_version": 1,
-            "crdt_data": {
-              "title": {
-                "r": "f5my2k3DBgCapl2-9TvGJQ,\"start\",\"end\"",
-                "n": {
-                  "f5my2k3DBgCapl2-9TvGJQ,\"start\",\"end\"": {
-                    "s": {
-                      "x": "f5my2k3DBgCapl2-9TvGJQ",
-                      "i": [
-                        {
-                          "t": "s"
-                        },
-                        {
-                          "t": "t",
-                          "i": [
-                            "XxlBL35Nx0Hc",
-                            14
-                          ],
-                          "o": "start",
-                          "l": 80,
-                          "c": "Congratulations! You scrolled far enough to find a ___ who ____, and wants to in"
-                        },
-                        {
-                          "t": "t",
-                          "i": [
-                            "XxlBL35Nx0Hc",
-                            99
-                          ],
-                          "o": [
-                            "XxlBL35Nx0Hc",
-                            93
-                          ],
-                          "l": 19,
-                          "c": "spire others to ___"
-                        },
-                        {
-                          "t": "t",
-                          "i": [
-                            "XxlBL35Nx0Hc",
-                            94
-                          ],
-                          "o": [
-                            "XxlBL35Nx0Hc",
-                            93
-                          ],
-                          "l": -5
-                        },
-                        {
-                          "t": "t",
-                          "i": [
-                            "XxlBL35Nx0Hc",
-                            1
-                          ],
-                          "o": "start",
-                          "l": -1
-                        },
-                        {
-                          "t": "t",
-                          "i": [
-                            "XxlBL35Nx0Hc",
-                            3
-                          ],
-                          "o": [
-                            "XxlBL35Nx0Hc",
-                            1
-                          ],
-                          "l": -11
-                        },
-                        {
-                          "t": "t",
-                          "i": [
-                            "XxlBL35Nx0Hc",
-                            2
-                          ],
-                          "o": [
-                            "XxlBL35Nx0Hc",
-                            1
-                          ],
-                          "l": -1
-                        },
-                        {
-                          "t": "e"
-                        }
-                      ],
-                      "l": ""
-                    },
-                    "c": []
-                  }
-                }
-              }
-            }
-          },
-          "role": "reader"
-        }
-      },
-      "41972a07-7ac7-80b3-bdea-f87047e884c7": {
-        "spaceId": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
-        "value": {
-          "value": {
-            "id": "41972a07-7ac7-80b3-bdea-f87047e884c7",
-            "version": 3,
-            "type": "page",
-            "created_time": 1794716376848,
-            "last_edited_time": 1794716376861,
-            "parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
-            "parent_table": "collection",
-            "alive": true,
-            "created_by_table": "notion_user",
-            "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
-            "last_edited_by_table": "notion_user",
-            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
-            "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
-            "crdt_format_version": 1,
-            "nav_parent_table": "collection",
-            "nav_parent_id": "31372a07-7ac7-81a2-a762-000b87e52b41",
-            "crdt_data": {
-              "title": {
-                "r": "__9u971Ts4z6IPyRnis0XA,\"start\",\"end\"",
-                "n": {
-                  "__9u971Ts4z6IPyRnis0XA,\"start\",\"end\"": {
-                    "s": {
-                      "x": "__9u971Ts4z6IPyRnis0XA",
-                      "i": [
-                        {
-                          "t": "s"
-                        },
-                        {
-                          "t": "e"
-                        }
-                      ],
-                      "l": ""
-                    },
-                    "c": []
-                  }
-                }
-              }
-            }
-          },
-          "role": "reader"
-        }
-      },
       "41972a07-7ac7-80a2-8761-fdcf76c8acfd": {
         "spaceId": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
         "value": {
@@ -67529,8 +67335,6 @@
     "31372a07-7ac7-81a2-a762-000b87e52b41"
   ],
   "allBlockIds": [
-    "41972a07-7ac7-80b3-bdea-f87047e884c7",
-    "3da72a07-7ac7-806a-b6ed-c89562341003",
     "37272a07-7ac7-80f2-be5e-c17aa838e964",
     "37272a07-7ac7-80fe-947b-cc5b592c812e",
     "37272a07-7ac7-8018-96b7-f7e6a4cd5a57",
@@ -67918,5 +67722,5 @@
       "collectionQuerier"
     ]
   },
-  "lastUpdatedAtMs": 1794773968174
+  "lastUpdatedAtMs": 1795011115040
 }
