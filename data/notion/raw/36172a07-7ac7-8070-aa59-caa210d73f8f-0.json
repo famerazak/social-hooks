@@ -192,7 +192,7 @@
         "value": {
           "value": {
             "id": "31372a07-7ac7-8186-b6fc-fb89ffa02db8",
-            "version": 336,
+            "version": 346,
             "type": "collection_view_page",
             "view_ids": [
               "31372a07-7ac7-8103-98bb-000ca2522c4b"
@@ -230,7 +230,7 @@
               }
             ],
             "created_time": 1772130839482,
-            "last_edited_time": 1794773074283,
+            "last_edited_time": 1795375784697,
             "parent_id": "29e72a07-7ac7-8030-8de1-e0c67b827815",
             "parent_table": "block",
             "alive": true,
@@ -317,7 +317,7 @@
         "value": {
           "value": {
             "id": "31372a07-7ac7-81a2-a762-000b87e52b41",
-            "version": 33,
+            "version": 39,
             "name": [
               [
                 "IG Growth Club - Content Prompts"
@@ -345,6 +345,11 @@
                 "name": "Type of Content",
                 "type": "multi_select",
                 "options": [
+                  {
+                    "id": "Uknf",
+                    "color": "brown",
+                    "value": "Single-image Post"
+                  },
                   {
                     "id": "c8cad222-18ec-4f7a-b2cd-b85deab3e6f8",
                     "color": "orange",
@@ -562,11 +567,11 @@
                 },
                 {
                   "visible": false,
-                  "property": "UPBc"
+                  "property": "hJCm"
                 },
                 {
                   "visible": false,
-                  "property": "hJCm"
+                  "property": "UPBc"
                 },
                 {
                   "visible": false,
@@ -591,11 +596,13 @@
             "migrated": true,
             "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
             "created_time": 1772130839453,
-            "last_edited_time": 1788110184297,
+            "last_edited_time": 1795375784697,
             "created_by_table": "notion_user",
             "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
             "last_edited_by_table": "notion_user",
-            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd"
+            "last_edited_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
+            "nav_parent_table": "block",
+            "nav_parent_id": "31372a07-7ac7-8186-b6fc-fb89ffa02db8"
           },
           "role": "reader"
         }
@@ -676,7 +683,7 @@
         "value": {
           "value": {
             "id": "31372a07-7ac7-8103-98bb-000ca2522c4b",
-            "version": 741,
+            "version": 757,
             "type": "table",
             "format": {
               "property_filters": [
@@ -785,6 +792,14 @@
               "41272a07-7ac7-8054-b7a9-fb6c49d04e97",
               "41272a07-7ac7-801d-980d-f864741efee4",
               "41972a07-7ac7-80b3-bdea-f87047e884c7",
+              "42072a07-7ac7-8041-b594-dc88f5688e27",
+              "42072a07-7ac7-8088-8979-ea65173c056c",
+              "42072a07-7ac7-805b-9a76-d92a9b609b86",
+              "42072a07-7ac7-8039-ac6b-f47bb450e5da",
+              "42072a07-7ac7-807d-9e84-f36eaff98cd3",
+              "42072a07-7ac7-800d-baca-f48473bd6006",
+              "42072a07-7ac7-80cb-ba52-e5a7ec0b70fa",
+              "42072a07-7ac7-80bd-a29b-c5cfb329d319",
               "41972a07-7ac7-80a2-8761-fdcf76c8acfd",
               "41972a07-7ac7-80ae-b7d5-f168fa27fcbc",
               "41972a07-7ac7-803a-a2a7-f1999bbb3eb2",
@@ -1186,7 +1201,7 @@
             ],
             "space_id": "a5472a07-7ac7-81dd-aac0-000365fbcf27",
             "created_time": 1788106026083,
-            "last_edited_time": 1794773074283,
+            "last_edited_time": 1795375744428,
             "created_by_table": "notion_user",
             "created_by_id": "293d872b-594c-8127-ad1d-0002c8296abd",
             "nav_parent_table": "block",

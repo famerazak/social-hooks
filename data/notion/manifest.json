@@ -2,10 +2,10 @@
   "title": "IG Growth Club - Content Prompts",
   "description": "Welcome to your master list of IG content ideas (for Reels and Carousels). Each prompt is organized by Content Pillar with real examples to inspire you and help you create content with strategy and purpose.",
   "source_url": "https://workable-fedora-9e0.notion.site/31372a077ac78186b6fcfb89ffa02db8?v=31372a077ac7810398bb000ca2522c4b",
-  "retrieved_at": "2026-11-18T16:25:33.161741+00:00",
-  "current_query_count": 372,
-  "saved_view_reference_count": 436,
-  "exported_count": 372,
+  "retrieved_at": "2026-11-23T19:13:01.474990+00:00",
+  "current_query_count": 380,
+  "saved_view_reference_count": 444,
+  "exported_count": 380,
   "entries_with_body": 5,
   "missing_content_blocks": [],
   "request_errors": {},
@@ -77,17 +77,23 @@
   ],
   "scope": "Public database properties and accessible descendant blocks. External Instagram content and binary attachments are not downloaded. Raw endpoint responses preserve rich text and metadata.",
   "files": {
-    "prompts.csv": "5fe48fea9c0c3e81ca6ee6bbabf2eecf067663ef049716c2980ac55b80746a5e",
-    "prompts.sqlite3": "8615ed56a9c3a73719e19a99bf36f987db19ca91d7baddebf396d0e1397abbcb",
-    "prompts.json": "2e0c951afe51dfb9ff271df2c2feff8eb7b8ff50a7777c278a268322a056c5be",
+    "prompts.json": "94ce8495ef47defd0b73c96df465d1f0cc9b611c0f1297a4b8a1fc4a57a54fe9",
+    "prompts.sqlite3": "3ecead7f86c81d92c2a75ec4cbd00e58b22a03038fb4c8216756e4ade70b1f6d",
+    "prompts.csv": "284dec46c171409c793490a0bf703cb152dadf07e0b31302a08835ce39b6de78",
     "README.md": "e324810f0e29c37cce89fddf5e29cba2fe73154c08ae7cdc04de5d5d90630032"
   },
   "changes": {
-    "added": [],
-    "removed": [
-      "3da72a07-7ac7-806a-b6ed-c89562341003",
-      "41972a07-7ac7-80b3-bdea-f87047e884c7"
+    "added": [
+      "42072a07-7ac7-800d-baca-f48473bd6006",
+      "42072a07-7ac7-8039-ac6b-f47bb450e5da",
+      "42072a07-7ac7-8041-b594-dc88f5688e27",
+      "42072a07-7ac7-805b-9a76-d92a9b609b86",
+      "42072a07-7ac7-807d-9e84-f36eaff98cd3",
+      "42072a07-7ac7-8088-8979-ea65173c056c",
+      "42072a07-7ac7-80bd-a29b-c5cfb329d319",
+      "42072a07-7ac7-80cb-ba52-e5a7ec0b70fa"
     ],
+    "removed": [],
     "updated": []
   },
   "untitled_record_ids": []
